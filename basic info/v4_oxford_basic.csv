@@ -1,0 +1,62 @@
+name,email,research_interests,affiliations
+yarin,mailto:yarin@cs.ox.ac.uk,,Computer Science department; Turing Institute; University of Cambridge; University of Oxford; OATML Group; Christ Church
+yi_ren,mailto:renyi.joshua@gmail.com,,OATML Group; University of Oxford; Computer Science at the University of British Columbia in Canada
+hao_fei,mailto:hao.fei@bdi.ox.ac.uk,"the theme of Multimodal Learning with an emphasis on Generative Models, Multimodal Large Foundational Models, Agents, and World Modeling.",University of Oxford; Big Data Institute; National University of Singapore; OATML Group
+yihong_chen,mailto:yihong.chen@cs.ox.ac.uk,"AI safety, with an emphasis on controllable and interpretable generative models, and understanding how knowledge is structured, abstracted, and modified in large language models.",Computer Science at University; Electronic Engineering at Tsinghua University; OATML Group
+lin_li,mailto:lin.li@cs.ox.ac.uk,"AI Safety, including topics such as hallucination, jailbreaking, safety alignment, and adversarial machine learning.",University of Oxford; OATML Group
+zihuiwen_ye,mailto:zihuiwen.ye@cs.ox.ac.uk,"lie in enhancing the reliability and robustness of Large Language Models (LLMs) for real-world applications, with a particular focus on text generation.",Computer Science at the University of Oxford; OATML Group
+anushka_nair,mailto:anushka.nair@balliol.ox.ac.uk,broadly span the development of AI systems capable of robust reasoning and generalization across diverse real world contexts.,OATML Group; University of Oxford; Computer Science from the Massachusetts Institute of Technology
+yoav_gelberg,mailto:“yoav@robots.ox.ac.uk”,"the symmetry and structure of neural network parameter spaces, with the goal of performing meta-learning tasks over model weights.",University of Oxford; Weizmann Institute; OATML Group
+xander_davies,mailto:alexander.davies@wolfson.ox.ac.uk,are attacking and understanding safeguards of frontier AI systems.,OATML group
+yonatan_gideoni,mailto:yg@robots.ox.ac.uk,,physics from the Hebrew University of Jerusalem; OATML Group
+matthew_kearney,mailto:Matthew.kearney@cs.ox.ac.uk,,OATML Group
+luckeciano_carvalho_melo,mailto:luckeciano.carvalho.melo@cs.ox.ac.uk,"s lie in designing agents that learn behaviors through interactions in an efficient, generalist, safe,.",OATML group
+shreshth_malik,mailto:shreshth@robots.ox.ac.uk,"are problems that limit ML systems to be taken out of the lab and used with confidence in the real world, motivated by applications in the sciences.",OATML group
+ruben_weitzman,mailto:ruben.weitzman@kellogg.ox.ac.uk,,Computational Biology at the University of Cambridge; Bioengineering and Biomedical Engineering at Imperial College; OATML Group
+muhammed_razzak,mailto:muhammed.razzak@cs.ox.ac.uk,,Department of Mechanical Engineering at the University of Cape Town; Department of Electrical Engineering at the University of Cape Town; OATML Group
+diana_verley,mailto:oatml-pm@cs.ox.ac.uk,,OATML Group
+gabriel_jones,mailto:gabriel.jones@queens.ox.ac.uk,,Nuffield Department of Women; Oxford Centre; OATML Group
+augusto_correa,mailto:augusto.blaascorrea@chch.ox.ac.uk,"is automated planning, with a current focus on improving the planning capabilities of large language models.",University of Basel; OATML Group; Christ Church
+ilia_shumailov,mailto:ilia.shumailov@chch.ox.ac.uk,,Christ Church and a Fellow of the Vector Institute; University of Cambridge; OATML Group; Christ Church
+pascal_notin,mailto:pascal_notin@hms.harvard.edu,,Marks lab; Oxford Applied and Theoretical Machine Learning Group; University of Oxford; Operations Research from Columbia University; OATML Group
+panagiotis_tigas,mailto:ptigas@robots.ox.ac.uk,,OATML group; Department of Computer Science at the University of Oxford; Isomorphic Lab
+sergio_calvoordonez,mailto:sergio.calvoordonez@maths.ox.ac.uk,lie broadly in Probabilistic Machine Learning.,Random Systems CDT at the University of Oxford; OATML Group
+suhaas_bhat,mailto:“suhaas.bhat@worc.ox.ac.uk”,,Church Lab; Harvard and the Chatterjee Lab; OATML Group
+hazel_kim,mailto:hazel.kim@cs.ox.ac.uk,"is interpretability and controllability in language models, applying statistical concepts or linguistic approaches.",Computer Science at the University of Oxford; OATML Group
+freddie_bickford_smith,mailto:freddie@robots.ox.ac.uk ,uncertainty and intelligent data acquisition in machine learning.,OATML Group
+katrina_dickson,mailto:katrina.dickson@cs.ox.ac.uk,,OATML Group
+tom_rainforth,mailto:rainforth@stats.ox.ac.uk,,OATML Group
+Tiarnan_Doherty,mailto:td404@cam.ac.uk,,Electron Microscopy Group; Physics at the University of Cambridge; Murray Edwards College; University of Cambridge with Paul Midgely; OATML Group
+sebastian_farquhar,mailto:sebastian.farquhar@balliol.ox.ac.uk,,Gal and part of the Centre; Physics and Philosophy from the University of Oxford; University of Oxford; OATML Group; Christ Church
+lisa_schut,mailto:schut@robots.ox.ac.uk,,group; OATML Group
+lukas_aichberger,mailto:“lukas.aichberger@gmail.com”,"safety, robustness, and trustworthiness in machine learning, with a particular emphasis on improving uncertainty quantification.",Johannes Kepler University; Gal at the University of Oxford; OATML lab; Artificial Intelligence from Johannes Kepler University; OATML Group
+kunal_handa,mailto:oatml@cs.ox.ac.uk,,OATML Group
+kelsey_doerksen,mailto:kelsey.doerksen@eng.ox.ac.uk,,OATML Group
+gunshi_gupta,mailto:gunshi.gupta@eng.ox.ac.uk,,OATML Group
+tim_rudner,mailto:tim.rudner@cs.ox.ac.uk,"span variational inference, reinforcement learning, Bayesian deep learning, and AI safety.",University of California; Georgetown University; OATML Group
+tuan_nguyen,mailto:tuan.nguyen@cs.ox.ac.uk,"include Bayesian Deep Learning, Efficient Inference, Representation Learning, and Interpretable Machine Learning.",CS Department; Oxford University; OATML Group
+lorenz_kuhn,mailto:lorenz.kuhn@cs.ox.ac.uk,"include improving our theoretical understanding of deep learning, as well as making deep learning safer and more reliable for real-world use cases.",Gal at the University of Oxford; Boston Consulting Group; OATML Group
+jishnu_mukhoti,mailto:jishnu.mukhoti@wolfson.ox.ac.uk,,University of Oxford working with Philip Torr and Yarin Gal; OATML Group
+jannik_kossen,mailto:jannik.kossen@cs.ox.ac.uk,,Physics from Heidelberg University; University College; OATML Group
+jan_brauner,mailto:Jan.Brauner@cs.ox.ac.uk,include AI safety (e.g.,Centre; University; University of Erlangen; Operational Research with Data Science at the University of Edinburgh; OATML Group
+freddie_kalaitzis,mailto:oatml@cs.ox.ac.uk,,Oxford Applied and Theoretical Machine Learning lab; AI for Good lab; Statistical Science department of University College London; Computer Science from the University of Sheffield; Artificial Intelligence from the University of Edinburgh; OATML Group
+angus_nicolson,mailto:angus.nicolson@linacre.ox.ac.uk,,OATML Group
+andrew_jesson,mailto:andrew.jesson@cs.ox.ac.uk,personalized decision-making under uncertainty in causal-effect estimates.,Department of Computer Science at the University of Oxford; Applied and Theoretical Machine Learning Group; McGill University; Probabilistic Vision Group; OATML Group
+soren_mindermann,mailto:soren.mindermann@linacre.ox.ac.uk,,Future of Humanity Institute; OATML Group
+laura_gisseleore,mailto:laura.gisseleire@cs.ox.ac.uk,,outreach and widening participation at the University of Cambridge; OATML Group
+joost_van_amersfoort,mailto:joost.van.amersfoort@cs.ox.ac.uk,,OATML group; Department of Computer Science at the University of Oxford; University of Amsterdam
+clare_lyle,mailto:clare.lyle@univ.ox.ac.uk,,University of Oxford working with Yarin Gal and Marta Kwiatkowska; mathematics and computer science at McGill University; OATML Group
+andreas_kirsch,mailto:andreas.kirsch@cs.ox.ac.uk,,Technical University; OATML Group
+aidan_gomez,mailto:aidan.gomez@cs.ox.ac.uk,,Gal and Yee Whye Teh at The University of Oxford; OATML Group
+angelos_filos,mailto:angelos.filos@cs.ox.ac.uk,"span multi-agent systems, meta-learning and reinforcement learning.",Department of Computer Science at the University of Oxford; Applied and Theoretical Machine Learning group; Imperial College; OATML Group
+robin_ru,mailto:robin@robots.ox.ac.uk,,was a DPhil at the University of Oxford working with Yarin Gal; OATML Group
+neil_band,mailto:neil.band@cs.ox.ac.uk,,Oxford Applied and Theoretical Machine Learning Group; MIT Computational Biology Group; Harvard Data Systems Lab; computer science and economics at Harvard College; OATML Group
+milad_alizadeh,mailto:milad.alizadeh@cs.ox.ac.uk,,Computer Science department; University of Oxford; Machine Learning Systems Group; Digital Signal Processing from University of Bristol in 2011; OATML Group
+lewis_smith,mailto:lewis.smith@kellogg.ox.ac.uk,,physics from the University of Manchester; OATML Group
+Lood_van_Niekerk,mailto:oatml@cs.ox.ac.uk,,OATML Group
+lars_holdijk,mailto:,,Artificial Intelligence at the University of Amsterdam; University of Amsterdam and Prof; Gal at the University of Oxford; OATML Group
+atilim_gunes_baydin,mailto:gunes@robots.ox.ac.uk,"include automatic differentiation, hyperparameter optimization, and evolutionary algorithms.",Kellogg College; collab; Lawrence Berkeley Lab; University of Oxford; OATML Group
+mizu_nishikawa_toomey,mailto:oatml@cs.ox.ac.uk,,OATML Group
+oscar_key,mailto:oatml@cs.ox.ac.uk,,OATML group; University of Oxford; group; computer science from the University of Cambridge
+challenger_mishra,mailto:oatml@cs.ox.ac.uk,,University of Oxford; OATML Group
+zac_kenton,mailto:oatml@cs.ox.ac.uk,"is technical AI safety, and is currently working on robustness and safe exploration in reinforcement learning.",Evans at the Future of Humanity Institute; Montreal Institute; Queen Mary University of London in Theoretical Physics; University of Cambridge; OATML Group

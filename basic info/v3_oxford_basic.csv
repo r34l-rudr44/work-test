@@ -1,0 +1,62 @@
+name,email,research_interests
+yarin,mailto:yarin@cs.ox.ac.uk,
+yi_ren,mailto:renyi.joshua@gmail.com,
+hao_fei,mailto:hao.fei@bdi.ox.ac.uk,"the theme of Multimodal Learning with an emphasis on Generative Models, Multimodal Large Foundational Models, Agents, and World Modeling."
+yihong_chen,mailto:yihong.chen@cs.ox.ac.uk,"AI safety, with an emphasis on controllable and interpretable generative models, and understanding how knowledge is structured, abstracted, and modified in large language models."
+lin_li,mailto:lin.li@cs.ox.ac.uk,"AI Safety, including topics such as hallucination, jailbreaking, safety alignment, and adversarial machine learning."
+zihuiwen_ye,mailto:zihuiwen.ye@cs.ox.ac.uk,"lie in enhancing the reliability and robustness of Large Language Models (LLMs) for real-world applications, with a particular focus on text generation."
+anushka_nair,mailto:anushka.nair@balliol.ox.ac.uk,broadly span the development of AI systems capable of robust reasoning and generalization across diverse real world contexts.
+yoav_gelberg,mailto:“yoav@robots.ox.ac.uk”,"the symmetry and structure of neural network parameter spaces, with the goal of performing meta-learning tasks over model weights."
+xander_davies,mailto:alexander.davies@wolfson.ox.ac.uk,are attacking and understanding safeguards of frontier AI systems.
+yonatan_gideoni,mailto:yg@robots.ox.ac.uk,
+matthew_kearney,mailto:Matthew.kearney@cs.ox.ac.uk,
+luckeciano_carvalho_melo,mailto:luckeciano.carvalho.melo@cs.ox.ac.uk,"s lie in designing agents that learn behaviors through interactions in an efficient, generalist, safe,."
+shreshth_malik,mailto:shreshth@robots.ox.ac.uk,"are problems that limit ML systems to be taken out of the lab and used with confidence in the real world, motivated by applications in the sciences."
+ruben_weitzman,mailto:ruben.weitzman@kellogg.ox.ac.uk,
+muhammed_razzak,mailto:muhammed.razzak@cs.ox.ac.uk,
+diana_verley,mailto:oatml-pm@cs.ox.ac.uk,
+gabriel_jones,mailto:gabriel.jones@queens.ox.ac.uk,
+augusto_correa,mailto:augusto.blaascorrea@chch.ox.ac.uk,"is automated planning, with a current focus on improving the planning capabilities of large language models."
+ilia_shumailov,mailto:ilia.shumailov@chch.ox.ac.uk,
+pascal_notin,mailto:pascal_notin@hms.harvard.edu,
+panagiotis_tigas,mailto:ptigas@robots.ox.ac.uk,
+sergio_calvoordonez,mailto:sergio.calvoordonez@maths.ox.ac.uk,lie broadly in Probabilistic Machine Learning.
+suhaas_bhat,mailto:“suhaas.bhat@worc.ox.ac.uk”,
+hazel_kim,mailto:hazel.kim@cs.ox.ac.uk,"is interpretability and controllability in language models, applying statistical concepts or linguistic approaches."
+freddie_bickford_smith,mailto:freddie@robots.ox.ac.uk ,uncertainty and intelligent data acquisition in machine learning.
+katrina_dickson,mailto:katrina.dickson@cs.ox.ac.uk,
+tom_rainforth,mailto:rainforth@stats.ox.ac.uk,
+Tiarnan_Doherty,mailto:td404@cam.ac.uk,
+sebastian_farquhar,mailto:sebastian.farquhar@balliol.ox.ac.uk,
+lisa_schut,mailto:schut@robots.ox.ac.uk,
+lukas_aichberger,mailto:“lukas.aichberger@gmail.com”,"safety, robustness, and trustworthiness in machine learning, with a particular emphasis on improving uncertainty quantification."
+kunal_handa,mailto:oatml@cs.ox.ac.uk,
+kelsey_doerksen,mailto:kelsey.doerksen@eng.ox.ac.uk,
+gunshi_gupta,mailto:gunshi.gupta@eng.ox.ac.uk,
+tim_rudner,mailto:tim.rudner@cs.ox.ac.uk,"span variational inference, reinforcement learning, Bayesian deep learning, and AI safety."
+tuan_nguyen,mailto:tuan.nguyen@cs.ox.ac.uk,"include Bayesian Deep Learning, Efficient Inference, Representation Learning, and Interpretable Machine Learning."
+lorenz_kuhn,mailto:lorenz.kuhn@cs.ox.ac.uk,"include improving our theoretical understanding of deep learning, as well as making deep learning safer and more reliable for real-world use cases."
+jishnu_mukhoti,mailto:jishnu.mukhoti@wolfson.ox.ac.uk,
+jannik_kossen,mailto:jannik.kossen@cs.ox.ac.uk,
+jan_brauner,mailto:Jan.Brauner@cs.ox.ac.uk,include AI safety (e.g.
+freddie_kalaitzis,mailto:oatml@cs.ox.ac.uk,
+angus_nicolson,mailto:angus.nicolson@linacre.ox.ac.uk,
+andrew_jesson,mailto:andrew.jesson@cs.ox.ac.uk,personalized decision-making under uncertainty in causal-effect estimates.
+soren_mindermann,mailto:soren.mindermann@linacre.ox.ac.uk,
+laura_gisseleore,mailto:laura.gisseleire@cs.ox.ac.uk,
+joost_van_amersfoort,mailto:joost.van.amersfoort@cs.ox.ac.uk,
+clare_lyle,mailto:clare.lyle@univ.ox.ac.uk,
+andreas_kirsch,mailto:andreas.kirsch@cs.ox.ac.uk,
+aidan_gomez,mailto:aidan.gomez@cs.ox.ac.uk,
+angelos_filos,mailto:angelos.filos@cs.ox.ac.uk,"span multi-agent systems, meta-learning and reinforcement learning."
+robin_ru,mailto:robin@robots.ox.ac.uk,
+neil_band,mailto:neil.band@cs.ox.ac.uk,
+milad_alizadeh,mailto:milad.alizadeh@cs.ox.ac.uk,
+lewis_smith,mailto:lewis.smith@kellogg.ox.ac.uk,
+Lood_van_Niekerk,mailto:oatml@cs.ox.ac.uk,
+lars_holdijk,mailto:,
+atilim_gunes_baydin,mailto:gunes@robots.ox.ac.uk,"include automatic differentiation, hyperparameter optimization, and evolutionary algorithms."
+mizu_nishikawa_toomey,mailto:oatml@cs.ox.ac.uk,
+oscar_key,mailto:oatml@cs.ox.ac.uk,
+challenger_mishra,mailto:oatml@cs.ox.ac.uk,
+zac_kenton,mailto:oatml@cs.ox.ac.uk,"is technical AI safety, and is currently working on robustness and safe exploration in reinforcement learning."
