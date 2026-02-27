@@ -1,7 +1,3 @@
-"""
-Generic CSS-selector extractor for arbitrary HTML pages.
-Use when the page has a repeating structure (e.g. list, table) extractable via selectors.
-"""
 from urllib.parse import urljoin
 
 import requests
@@ -12,16 +8,6 @@ from .base import BaseExtractor
 
 
 class CssSelectExtractor(BaseExtractor):
-    """
-    Config:
-      url: ...
-      item_selector: CSS selector for each repeated item (e.g. "tr", ".person-card")
-      field_selectors: { output_field: css_selector } - evaluated within each item
-      field_attributes: { output_field: "href" } - extract attribute instead of text
-      link_fields: [ fields to resolve as absolute URLs ]
-      base_url: for link resolution
-    """
-
     def extract(self) -> list[Record]:
         url = self.config.get("url", "")
         item_sel = self.config.get("item_selector", "")

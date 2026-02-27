@@ -1,15 +1,9 @@
-"""
-Canonical output schema for scraped records.
-All extractors produce Records; the engine flattens them for CSV output.
-"""
 from dataclasses import dataclass, field
 from typing import Any
 
 
 @dataclass
 class Record:
-    """A single scraped record. source + name are required; all else optional."""
-
     source: str
     name: str
     url: str = ""
@@ -17,7 +11,6 @@ class Record:
     raw: dict[str, Any] = field(default_factory=dict)
 
     def to_flat_dict(self, all_columns: list[str]) -> dict[str, str]:
-        """Flatten to dict for CSV. Fills only this record's columns; others blank."""
         out: dict[str, str] = {c: "" for c in all_columns}
         out["source"] = self.source
         out["name"] = str(self.name) if self.name else ""
@@ -41,7 +34,6 @@ def _serialize(val: Any) -> str:
 
 
 def collect_all_columns(records: list[Record]) -> list[str]:
-    """Build ordered column list: core + all unique raw keys (sorted for stable output)."""
     core = ["source", "name", "url", "email"]
     seen: set[str] = set()
     for r in records:

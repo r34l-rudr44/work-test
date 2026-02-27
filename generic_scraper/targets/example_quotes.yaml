@@ -1,6 +1,3 @@
-# Generic CSS-select demo: quotes.toscrape.com (classic scraping practice site)
-# Demonstrates scraping ANY site with a repeating structure + CSS selectors.
-# Change url and field_selectors to target a different site.
 id: quotes
 base_url: http://quotes.toscrape.com
 source_type: css_select

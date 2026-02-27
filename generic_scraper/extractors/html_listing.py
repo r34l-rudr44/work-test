@@ -1,4 +1,3 @@
-"""Extractor for listing pages: get item links, then scrape each detail page."""
 import re
 import requests
 from urllib.parse import urljoin, urlparse
@@ -10,18 +9,6 @@ from .base import BaseExtractor
 
 
 class HtmlListingExtractor(BaseExtractor):
-    """
-    Config:
-      listing:
-        url: ...
-        link_selector: css selector or "a" with link_filter
-        link_filter: optional dict { href_contains, path_segments, ... }
-        link_attr: href (default)
-      detail:
-        extract: list of { field, selector?, attribute?, text?, from_url? }
-        transforms: optional dict field -> callable name
-    """
-
     def extract(self) -> list[Record]:
         listing = self.config.get("listing", {})
         detail_cfg = self.config.get("detail", {})

@@ -5,8 +5,6 @@ from ..schema import Record
 
 
 class BaseExtractor(ABC):
-    """Base class for all extractors. Config is a dict from YAML."""
-
     def __init__(self, config: dict[str, Any]):
         self.config = config
         self.source_id = str(config.get("id", "unknown"))
@@ -14,5 +12,4 @@ class BaseExtractor(ABC):
 
     @abstractmethod
     def extract(self) -> list[Record]:
-        """Fetch and parse data; return list of Records."""
         pass

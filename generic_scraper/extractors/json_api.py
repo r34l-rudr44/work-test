@@ -1,4 +1,3 @@
-"""Extractor for JSON APIs. Single request; field mapping with optional transforms."""
 import json
 import requests
 from urllib.parse import urljoin
@@ -8,17 +7,6 @@ from .base import BaseExtractor
 
 
 class JsonApiExtractor(BaseExtractor):
-    """
-    Config:
-      api:
-        url: ...
-        data_path: "data"  # path into response, dot-separated
-      field_mapping: { output_field: json_key or "json.path" }
-      name_field: primary key for "name" (default: first mapped)
-      url_field: optional - build url from base + path
-      transforms: { field: "andrew_email" | "list_join" | "raw" }
-    """
-
     def extract(self) -> list[Record]:
         api = self.config.get("api", {})
         url = api.get("url", "")

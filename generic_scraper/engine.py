@@ -1,4 +1,3 @@
-"""Run config-driven scrapers and write unified CSV."""
 import csv
 from pathlib import Path
 
@@ -7,7 +6,6 @@ from .extractors import get_extractor
 
 
 def run_targets(config_paths: list[Path]) -> list[Record]:
-    """Load each config, run its extractor, return combined records."""
     records: list[Record] = []
     for path in config_paths:
         cfg = _load_config(path)
@@ -21,7 +19,6 @@ def run_targets(config_paths: list[Path]) -> list[Record]:
 
 
 def write_csv(records: list[Record], out_path: Path) -> None:
-    """Write records to CSV with dynamic columns."""
     columns = collect_all_columns(records)
     rows = [r.to_flat_dict(columns) for r in records]
     with out_path.open("w", newline="", encoding="utf-8") as f:

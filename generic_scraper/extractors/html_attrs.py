@@ -1,4 +1,3 @@
-"""Extractor for pages with data-* attributes on container elements."""
 from urllib.parse import urljoin
 
 import requests
@@ -9,15 +8,6 @@ from .base import BaseExtractor
 
 
 class HtmlAttrsExtractor(BaseExtractor):
-    """
-    Config:
-      url: ...
-      container_selector: e.g. "[data-mail]" – elements to iterate
-      attribute_map: { output_field: "data-attr-name" }
-      transforms: { field: "deobfuscate_email" | "absolute_url" }
-      base_url: for absolute_url transform
-    """
-
     def extract(self) -> list[Record]:
         url = self.config.get("url", "")
         container = self.config.get("container_selector", "")

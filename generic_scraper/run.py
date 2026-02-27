@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Generic scraper CLI. Run one or more target configs.
-Usage:
-  python -m generic_scraper.run
-  python -m generic_scraper.run targets/oxford.yaml targets/cmu.yaml
-  python -m generic_scraper.run --all --output combined.csv
-"""
 import argparse
 from pathlib import Path
 
