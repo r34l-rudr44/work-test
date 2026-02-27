@@ -1,0 +1,2005 @@
+source,name,url,email,cmu_advisor,cmu_degree,cmu_dept,cmu_email,cmu_href,cmu_id,cmu_img,cmu_institution,cmu_joint_degree,cmu_name,cmu_rsrc,cmu_soc,iitm_bio,iitm_designation,iitm_email,iitm_image,iitm_labno,iitm_name,iitm_office,iitm_personal_url,iitm_phone,iitm_profile_url,iitm_research,iitm_research_areas,iitm_specializations,oxford_mailto_raw,oxford_member_id,oxford_page_text,oxford_url,quotes_author,quotes_author_url,quotes_name,quotes_tags,quotes_text
+cmu,Yixin Dong,,yixind@andrew.cmu.edu,Tianqi Chen,BS in Computer Science ,[null],yixind@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yixind,yixind,https://ml.cmu.edu/people/phd-student-photos/dong_yixin.png,Shanghai Jiao Tong University,,Yixin Dong,LLM Agents; LLM for Code Generation; AI Compilers,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Yifei Zhang,,yifeizh3@andrew.cmu.edu,Max Simchowitz,B.S. in Artificial Intelligence,[null],yifeizh3@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yifeizh3,yifeizh3,https://ml.cmu.edu/people/phd-student-photos/zhang_yifei.jpg,University of Chinese Academy of Sciences,,Yifei Zhang,Machine Learning; Computer Vision,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Ian Wu,,iwu@andrew.cmu.edu,Aviral Kumar,MSc. in Machine Learning; B.A. in Natural Sciences,[null],iwu@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/iwu,iwu,https://ml.cmu.edu/images/bio/students/wu_ian_cropped-min.jpg,University College London; University of Cambridge,,Ian Wu,Reinforcement Learning; Learning from Feedback and Interaction,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Jingchu Gai,,jgai@andrew.cmu.edu,Andrej Risteski; Aditi Raghunathan,BS in Mathematics,[null],jgai@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jgai,jgai,https://ml.cmu.edu/people/phd-student-photos/gai_jingchu_cropped-min.jpg,Peking University,,Jingchu Gai,Machine Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Anna Bair,,abair@andrew.cmu.edu,Zico Kolter,SB & MEng in Computer Science,[null],abair@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/abair,abair,https://ml.cmu.edu/images/bio/students/bair_anna1-min.jpg,Massachusetts Institute of Technology,,Anna Bair,Theoretical Machine Learning; Fairness; Complex Systems,"[{""type"": ""website"", ""url"": ""https://annaebair.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Chenchen Gu,,cgu@andrew.cmu.edu,Zico Kolter,BS and MS in Computer Science,[null],cgu@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/cgu,cgu,https://ml.cmu.edu/people/phd-student-photos/gu_chenchen-min.jpg,Stanford University,,Chenchen Gu,Deep Learning; Foundation Model Agents; Natural Language Processing; Trustworthy Machine Learning,"[{""type"": ""website"", ""url"": ""https://chenchenygu.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Utkarsh Priyam,,upriyam@andrew.cmu.edu,Pradeep Ravikumar,MS in Machine Learning; BS in Computer Engineering,[null],upriyam@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/upriyam,upriyam,https://ml.cmu.edu/people/phd-student-photos/priyam_utkarsh_cropped-min.jpg,Carnegie Mellon University; Purdue University,,Utkarsh Priyam,Representation Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Aashiq Muhamed,,amuhamed@andrew.cmu.edu,"Virginia Smith,Mona Diab",Master of Language Technologies; B.Tech; MS,[null],amuhamed@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/amuhamed,amuhamed,https://ml.cmu.edu/people/phd-student-photos/muhamed_aashiq_cropped-min.jpg,Carnegie Mellon University; Indian Institute of Technology Roorkee; Stanford University,,Aashiq Muhamed,AI Safety; AI Governance,"[{""type"": ""website"", ""url"": ""https://aashiqmuhamed.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Johnna Sundberg,,jsundberg@andrew.cmu.edu,Rayid Ghani; Pradeep Ravikumar,B.A. Economics (Math Emphasis),[null],jsundberg@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jsundberg,jsundberg,https://ml.cmu.edu/people/phd-student-photos/sundberg_johnna_cropped-min.jpg,University of Wisconsin - Madison,Machine Learning & Public Policy Joint PhD Degree,Johnna Sundberg,Causal Machine Learning; Decision-Making; Representation Learning; Applications to Public Policy,"[{""type"": ""website"", ""url"": ""https://jesund.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Joel Ye,,jye@andrew.cmu.edu,Robert Gaunt; Leila Wehbe,B.S. and M.S. in Computer Science,[null],jye@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jye,jye,https://ml.cmu.edu/people/phd-student-photos/ye_joel_cropped-min.jpg,Georgia Institute of Technology,Neural Computation & Machine Learning Joint PhD Degree,Joel Ye,Multimodal Interaction and Comprehension in Human and AI,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Subha Pushpita,,spushpita@andrew.cmu.edu,Leila Wehbe,"MS Engineering, Electrical Engineering and Computer Science; BS, double major Electrical Engineering and Computer Science, Mathematics",[null],spushpita@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/spushpita,spushpita,https://ml.cmu.edu/people/phd-student-photos/pushpita_subha-min.jpg,MIT,Neural Computation & Machine Learning  Joint PhD Degree,Subha Pushpita,Multimodal Comprehension and Logical Reasoning in Brain and ML Models,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Evan Trop,,etrop@andrew.cmu.edu,Jian Ma,BASc in Mechanical Engineering; MS in Computational Biology,[null],etrop@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/etrop,etrop,https://ml.cmu.edu/images/bio/students/trop_evan-min.jpg,UBC; CMU,,Evan Trop,AI for Biology,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Lawrence Keunho Jang,,ljang@andrew.cmu.edu,Ruslan Salakhutdinov,B.S/M.S Machine Learning,[null],ljang@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ljang,ljang,https://ml.cmu.edu/images/bio/students/jang_lawrence-min.jpg,Carnegie Mellon University,,Lawrence Keunho Jang,LLM Agents,"[{""type"": ""website"", ""url"": ""https://lawrencekjang.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Yuchen Shen,,yshen@andrew.cmu.edu,Aran Nayebi,MS in Intelligent Information Systems; B.Eng in Software Engineering,[null],yshen@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yshen,yshen,https://ml.cmu.edu/images/bio/students/shen_yuchen-min.jpg,Carnegie Mellon University; UESTC,,Yuchen Shen,Optimization; AI for Science,"[{""type"": ""website"", ""url"": ""https://a-chicharito-s.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Jeffrey Wu,,jwu@andrew.cmu.edu,"Steven Wu,Andrew Ilyas",M.S. in Computer Science,[null],jwu@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jwu,jwu,https://ml.cmu.edu/images/bio/students/wu_jiayun-cropped-min.jpg,Tsinghua University,,Jeffrey Wu,AI Safety,"[{""type"": ""website"", ""url"": ""https://ic-hub.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Jeremy Tien,,jtien@andrew.cmu.edu,"Aran Nayebi,Zico Kolter",BS in Electrical Engineering and Computer Sciences,[null],jtien@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jtien,jtien,https://ml.cmu.edu/images/bio/students/tien_jeremy_cropped-min.jpg,UC Berkeley,,Jeremy Tien,Human-AI Interaction,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Ignacy Stepka,,istepka@andrew.cmu.edu,Artur Dubrawski,B.Sc.Eng. in Artificial Intelligence,[null],istepka@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/istepka,istepka,https://ml.cmu.edu/images/bio/students/stepka_ignacy-min.jpg,Poznan University of Technology,,Ignacy Stepka,Machine Learning; Robustness; Federated Learning,"[{""type"": ""website"", ""url"": ""https://ignacystepka.com"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Ritabrata Ray,,rray@andrew.cmu.edu,Pradeep Ravikumar,"MS in Electrical & Computer Engineering,; B.Tech M.Tech (Dual Degree) in Electronics & Electrical Communication Engineering",[null],rray@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/rray,rray,https://ml.cmu.edu/images/bio/students/ray_ritabrata_cropped-min.jpg,Cornell University; IIT Kharagpur,,Ritabrata Ray,Representation Learning; Machine Learning Theory,"[{""type"": ""website"", ""url"": ""https://ritabrata-ray.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Pranav Rajbhandari,,prajbhandari@andrew.cmu.edu,Tuomas Sandholm,B.S. Science in Artificial Intelligence with an additional major in Mathematical Sciences,[null],prajbhandari@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/prajbhandari,prajbhandari,https://ml.cmu.edu/images/bio/students/rajbhandari_pranav_cropped-min.jpg,Carnegie Mellon University,,Pranav Rajbhandari,Game Theory; Multiagent Systems; Decision-Making,"[{""type"": ""website"", ""url"": ""https://pranavraj575.github.io/"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Vladimir Malinovskii,,vmalinovskii@andrew.cmu.edu,TBD,M.S. in Applied Mathematics & Computer Science; B.S. in Applied Mathematics & Physics,[null],vmalinovskii@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/vmalinovskii,vmalinovskii,https://ml.cmu.edu/images/bio/students/malinovskii_vladimir_cropped-min.jpg,Higher School of Economics; Moscow Institute of Physics and Technology,,Vladimir Malinovskii,LLM; Efficient Transformer Training and Inference,"[{""type"": ""website"", ""url"": ""https://galqiwi.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Souraja Kundu,,skundu@andrew.cmu.edu,Laszlo Jeni,B.Tech. in Electronics & Communication Engineering,[null],skundu@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/skundu,skundu,https://ml.cmu.edu/images/bio/students/kundu_souraja_cropped-min.jpg,Indian Institute of Technology Guwahati,,Souraja Kundu,Computer Vision; Multimodal Machine Learning,"[{""type"": ""website"", ""url"": ""https://sites.google.com/view/sourajakundu/home"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Abi Kothapalli,,akothapalli@andrew.cmu.edu,"Max Simchowitz,Albert Gu",BS/MS in Computer Science and Mathematics,[null],akothapalli@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/akothapalli,akothapalli,https://ml.cmu.edu/images/bio/students/kothapalli_abihith_cropped-min.png,Vanderbilt University,,Abi Kothapalli,Architecture Design; Representation Learning; Generative Modeling; Optimal Transport,"[{""type"": ""website"", ""url"": ""https://abi-kothapalli.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Nai-Chieh Huang,,nhuang@andrew.cmu.edu,Max Simchowitz,B.S. in Computer Science,[null],nhuang@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/nhuang,nhuang,https://ml.cmu.edu/images/bio/students/huang_nai-chieh_cropped-min.jpg,National Yang Ming Chiao Tung University,,Nai-Chieh Huang,Reinforcement Learning,"[{""type"": ""website"", ""url"": ""https://colder66.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Wenbin Zhou,,wenbinz2@andrew.cmu.edu,Shixiang Woody Zhu,B.S. in Statistics,[null],wenbinz2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/wenbinz2,wenbinz2,https://ml.cmu.edu/people/phd-student-photos/zhou_wenbin-min.jpg,University of Science and Technology of China,Machine Learning & Public Policy Joint PhD Degree,Wenbin Zhou,Statistical Machine Learning; Decision-Making; Uncertainty Quantification,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Khurram Yamin,,kyamin@andrew.cmu.edu,Bryan Wilder; Edward Kennedy,BS in Industrial and Systems Engineering,[null],kyamin@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/kyamin,kyamin,https://ml.cmu.edu/people/photos/yamin_khurram_cropped-min.jpg,Georgia Tech,,Khurram Yamin,Causal Inference; Development of Machine Learning Algorithms That Enhance Social Good Through Tackling Policy Issues,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Stephan Xie,,sxie2@andrew.cmu.edu,Ameet Talwalkar,BSE in Computer Science & Mathematical Economics,[null],sxie2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/sxie2,sxie2,https://ml.cmu.edu/people/phd-student-photos/xie_stephan_cropped-min.jpg,University of Pennsylvania,,Stephan Xie,Decision-Making; Reliability; Social and Scientific Impact in Machine Learning and Deep Learning,"[{""type"": ""website"", ""url"": ""https://stephofx.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Qiuhong Anna Wei,,qiuhongw@andrew.cmu.edu,Ameet Talwalkar; Andrej Risteski,B.S. in Math and Computer Science; Concurrent M.S. in Computer Science,[null],qiuhongw@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/qiuhongw,qiuhongw,https://ml.cmu.edu/people/phd-student-photos/Qiuhong-Anna-Wei_new.jpeg,Brown University,,Qiuhong Anna Wei,Machine Learning; Deep Learning; Generative Modeling,"[{""type"": ""website"", ""url"": ""https://qiuhongannawei.me"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Selina Carter,,shcarter@andrew.cmu.edu,Arun Kumar Kuchibhotla,MS in Math and Statistics,[null],shcarter@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/shcarter,shcarter,https://ml.cmu.edu/people/phd-student-photos/carter_selina-min.jpg,Georgetown University,Statistics & Machine Learning PhD Degree,Selina Carter,Uncertainty Quantification; Recurrent Neural Networks; Reinforcement Learning,"[{""type"": ""website"", ""url"": ""https://selinacarter.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Namrata Deka,,ndeka@andrew.cmu.edu,Kun Zhang; Jeff Schneider,M.Sc. in Computer Science; B.Tech. in Computer Science and Engineering,[null],ndeka@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ndeka,ndeka,https://ml.cmu.edu/images/bio/students/deka_namrata_cropped-min.jpg,University of British Columbia; IIIT Delhi,,Namrata Deka,Causal Representation Learning; Computer Vision,"[{""type"": ""website"", ""url"": ""https://namratadeka.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Nuoya Xiong,,nuoyax@andrew.cmu.edu,Aarti Singh,BS in Computer Science,[null],nuoyax@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/nuoyax,nuoyax,https://ml.cmu.edu/people/phd-student-photos/xiong_nuoya_cropped-min.jpg,IIIS Tsinghua University,,Nuoya Xiong,Machine Learning; Optimization; Reinforcement Learning,"[{""type"": ""website"", ""url"": ""https://xiongny.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Fahim Tajwar,,ftajwar@andrew.cmu.edu,Russ Salakhutdinov; Jeff Schneider,BS in Mathematics; MS in Computer Science,[null],ftajwar@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ftajwar,ftajwar,https://ml.cmu.edu/people/phd-student-photos/tajwar_fahim_cropped-min.jpg,Stanford University,,Fahim Tajwar,Deployable Machine Learning; Distribution Shift Robustness,"[{""type"": ""website"", ""url"": ""https://tajwarfahim.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Ananye Agarwal,,ananyea@andrew.cmu.edu,Deepak Pathak,B.Tech in  Computer Science and Engineering,[null],ananyea@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ananyea,ananyea,https://ml.cmu.edu/images/bio/students/agarwal_ananye_cropped-min.jpg,Indian Institute of Technology Delhi,,Ananye Agarwal,Reinforcement Learning; Robot Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Jacob Yeung,,jjyeung@andrew.cmu.edu,Michael Tarr,B.S. in EECS,[null],jjyeung@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jjyeung,jjyeung,https://ml.cmu.edu/people/phd-student-photos/yeung_jacob.jpeg,UC Berkeley,Neural Computation & Machine Learning Joint PhD Degree,Jacob Yeung,Computational Neuroscience; Computer Vision,"[{""type"": ""website"", ""url"": ""https://jacobyeung.org"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Jacob Springer,,jspringe@andrew.cmu.edu,Aditi Raghunathan,BA in Mathematics and Computer Science,[null],jspringe@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jspringe,jspringe,https://ml.cmu.edu/images/bio/students/springer_jacob_cropped-min.jpg,Swarthmore College,,Jacob Springer,Generalization; Robustness; Machine Learning at Scale,"[{""type"": ""website"", ""url"": ""https://sprin.xyz"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Deying Song,,deyings@andrew.cmu.edu,Chengcheng Huang; Robert Kass,B.S. in Integrated Science,[null],deyings@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/deyings,deyings,https://ml.cmu.edu/images/bio/students/song_deying-min.jpg,Peking University,Neural Computation & Machine Learning Joint PhD Degree,Deying Song,Computational Neuroscience,"[{""type"": ""website"", ""url"": ""https://deyingsong.com/"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Chang Liu,,changl8@andrew.cmu.edu,Artur Dubrawski,BEng. in Computer Science,[null],changl8@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/changl8,changl8,https://ml.cmu.edu/people/phd-student-photos/liu_chang-min.png,Tsinghua University,,Chang Liu,Machine Learning in Healthcare,"[{""type"": ""website"", ""url"": ""https://changliu-drpatient.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Maitreyi Swaroop,,mswaroop@andrew.cmu.edu, Bryan Wilder,Integrated Master of Science (MSc + BSc Hons.) in Mathematics and Computing,[null],mswaroop@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/mswaroop,mswaroop,https://ml.cmu.edu/people/phd-student-photos/swaroop_maitreyi_cropped-min.jpg,"IIT, Kharagpur",,Maitreyi Swaroop,Causal Machine Learning; Generalization; Robustness,"[{""type"": ""website"", ""url"": ""https://maitreyiswaroop.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Sukjun Hwang,,sukjunh@andrew.cmu.edu,Albert Gu,BS & MS in Computer Science,[null],sukjunh@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/sukjunh,sukjunh,https://ml.cmu.edu/images/bio/students/hwang_sukjun-min.jpg,Yonsei University,,Sukjun Hwang,Deep Learning; Representation Learning; Multi-task Multi-modal Learning,"[{""type"": ""website"", ""url"": ""https://sukjunhwang.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Nupoor Gandhi,,nmgandhi@andrew.cmu.edu,Alexandra Chouldechova,B.S. in Computer Science,[null],nmgandhi@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/nmgandhi,nmgandhi,https://ml.cmu.edu/images/bio/students/gandhi_nupoor-min.jpg,University of Illinois at Urbana-Champaign,Machine Learning & Public Policy Joint PhD Degree,Nupoor Gandhi,Natural Language Understanding; Computational Psycholinguistics; Computational Social Science,"[{""type"": ""website"", ""url"": ""https://nupoorgandhi.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Che-Ping Tsai,,chepingt@andrew.cmu.edu,Pradeep Ravikumar,BS in Electronic Engineering and Mathematics; MS in Computer Science,[null],chepingt@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/chepingt,chepingt,https://ml.cmu.edu/images/bio/students/tsai_che-ping_800-min.jpg,National Taiwan University,,Che-Ping Tsai,Interpretability; Natural Language Processing,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Victoria Lin,,vlin2@andrew.cmu.edu,Louis-Philippe Morency; Eli Ben-Michael,MS in Computational Data Science; BA in Statistics and Molecular and Cellular Biology,[null],vlin2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/vlin2,vlin2,https://ml.cmu.edu/images/bio/students/lin_victoria-min.png,Carnegie Mellon University; Harvard University,,Victoria Lin,Causal Inference; Natural Language Processing,"[{""type"": ""website"", ""url"": ""https://torylin.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Efe Mert Karagozlu,,ekaragoz@andrew.cmu.edu,Jeff Schneider; Barnabas Poczos,Bachelor of Science in Electrical and Electronics Engineering,[null],ekaragoz@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ekaragoz,ekaragoz,https://ml.cmu.edu/people/phd-student-photos/karagozlu_efe-mert_cropped-min.jpg,Bilkent University,,Efe Mert Karagozlu,Paradigms Beyond Supervised Learning; Uncertainty Quantification for Deep Models; Learning Theory,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Rattana Pukdee,,rpukdee@andrew.cmu.edu,Nina Balcan; Pradeep Ravikumar,Master in Mathematics,[null],rpukdee@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/rpukdee,rpukdee,https://ml.cmu.edu/images/bio/students/pukdee_rattana_cropped-min.jpg,University of Oxford,,Rattana Pukdee,Robustness; Fairness; Machine Learning in Public Policy,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Dylan Sam,,dylansam@andrew.cmu.edu,Zico Kolter,BS in Computer Science and Mathematics,[null],dylansam@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/dylansam,dylansam,https://ml.cmu.edu/images/bio/students/sam_dylan_cropped-min.jpg,Brown University,,Dylan Sam,Statistical Machine Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Kanad Pardeshi,,kpardesh@andrew.cmu.edu,Aarti Singh; Bryan Wilder,B. Tech. in Computer Science,[null],kpardesh@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/kpardesh,kpardesh,https://ml.cmu.edu/people/phd-student-photos/pardeshi_kanad-min.jpg,IIT Bombay,,Kanad Pardeshi,Statistical Machine Learning; Machine Learning Theory; Machine Learning Algorithms,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Xueying Ding,,xding2@andrew.cmu.edu,Leman Akoglu,M.S. in Machine Learning,[null],xding2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/xding2,xding2,https://ml.cmu.edu/people/phd-student-photos/ding_xueying_cropped-min.jpg,Carnegie Mellon University,Machine Learning & Public Policy Joint PhD Degree,Xueying Ding,Anomaly Detection; Representation Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Yuxiao Qu,,yuxiaoq@andrew.cmu.edu,Aviral Kumar; Russ Salakhutdinov,BS in Computer Science and Mathematics,[null],yuxiaoq@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yuxiaoq,yuxiaoq,https://ml.cmu.edu/people/phd-student-photos/qu_yuxiao_cropped-min.jpg,University of Wisconsin-Madison,,Yuxiao Qu,Reinforcement Learning; Foundation Model Agents,"[{""type"": ""website"", ""url"": ""https://cohenqu.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Valerie Chen,,vchen2@andrew.cmu.edu,Ameet Talwalkar,BS in Computer Science,[null],vchen2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/vchen2,vchen2,https://ml.cmu.edu/images/bio/students/chen_valerie-min.jpg,Yale University,,Valerie Chen,"Principled Approaches to Fairness, Accountability, and Transparency in Machine Learning","[{""type"": ""website"", ""url"": ""https://valeriechen.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Logan Crowl,,lcrowl@andrew.cmu.edu,Daniel Nagin,B.A. in Mathematics & Statistics,[null],lcrowl@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/lcrowl,lcrowl,https://ml.cmu.edu/people/phd-student-photos/crowl_logan-min.jpeg,Carleton College,Machine Learning & Public Policy Joint PhD Degree,Logan Crowl,"Machine Learning for Urban Systems (Crime, Transportation, and Education); Model-Based Hypothesis Generation","[{""type"": ""website"", ""url"": ""https://crowll.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Maxwell Jones,,mjones2@andrew.cmu.edu,Jun-Yan Zhu; Russ Salakhutdinov,BS in Artificial Intelligence; MS in Machine Learning,[null],mjones2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/mjones2,mjones2,https://ml.cmu.edu/people/phd-student-photos/jones_maxwell_cropped-min.jpg,Carnegie Mellon University,,Maxwell Jones,Computer Vision; Generative Modeling,"[{""type"": ""website"", ""url"": ""https://maxwelljon.es"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Anh Tuan Nguyen,,atnguyen@andrew.cmu.edu,Nina Balcan,"BS in Applied Mathematics and Informatics, School of Applied Mathematics and Informatics",[null],atnguyen@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/atnguyen,atnguyen,https://ml.cmu.edu/images/bio/students/nguyen_anh_cropped-min.jpg,Hanoi University of Science and Technology,,Anh Tuan Nguyen,Distributional Robustness; Robust Optimization,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Benjamin Chugg,,bchugg@andrew.cmu.edu,Aaditya Ramdas,MSc in Mathematics,[null],bchugg@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/bchugg,bchugg,https://ml.cmu.edu/images/bio/students/chugg_benjamin_cropped-min.jpg,University of Oxford,Joint PhD in Statistics & Machine Learning,Benjamin Chugg,Online Learning; Sequential Decision Making; Randomized Algorithms,"[{""type"": ""website"", ""url"": ""https://benchugg.com"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Naveen Raman,,naveenr@andrew.cmu.edu,Fei Fang,BS in Computer Science,[null],naveenr@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/naveenr,naveenr,https://ml.cmu.edu/people/photos/raman_naveen_cropped1-min.jpg,University of Maryland,,Naveen Raman,Machine Learning for Social Good,"[{""type"": ""website"", ""url"": ""https://naveenraman.com"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Yewen Fan,,yewenf@andrew.cmu.edu,Kun Zhang,BS in Computer Science,[null],yewenf@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yewenf,yewenf,https://ml.cmu.edu/images/bio/students/fan_yewen_cropped-min.jpg,University of Illinois at Urbana-Champaign,,Yewen Fan,Deep Learning; Learning Theory; Optimization; Recommendation Systems,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Yingtao Luo,,yingtaol@andrew.cmu.edu,Rema Padman,BS in Applied Physics,[null],yingtaol@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yingtaol,yingtaol,https://ml.cmu.edu/people/phd-student-photos/luo_yingtao-min.jpg,Huazhong University of Science and Technology,Machine Learning & Public Policy Joint PhD Degree,Yingtao Luo,Sequential Decision Making; Machine Learning; Deep Learning; Machine Learning for Science; Machine Learning for Healthcare,"[{""type"": ""website"", ""url"": ""https://yingtaoluo.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Terrance Liu,,terrancl@andrew.cmu.edu,Steven Wu,MS in Machine Learning,[null],terrancl@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/terrancl,terrancl,https://ml.cmu.edu/images/bio/students/liu_terrance_cropped-min.jpg,Carnegie Mellon University,,Terrance Liu,Privacy-Preserving ML,"[{""type"": ""website"", ""url"": ""https://terranceliu.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Isaac Liao,,iliao@andrew.cmu.edu,Albert Gu,"Master of Engineering, Electrical Engineering and Computer Science; Bachelor of Science, double major Electrical Engineering and Computer Science, Physics",[null],iliao@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/iliao,iliao,https://ml.cmu.edu/people/photos/liao_isaac-min.jpg,MIT,,Isaac Liao,Variational Inference; Minimum Description Length; Deep Learning,"[{""type"": ""website"", ""url"": ""https://iliao2345.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Grace Liu,,gliu2@andrew.cmu.edu,Aarti Singh,M.S.E. in Computer Science; B.S.E. in Computer Science,[null],gliu2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/gliu2,gliu2,https://ml.cmu.edu/people/phd-student-photos/liu_grace_cropped-min.jpg,Princeton University,,Grace Liu,Computational Sustainability; AI for Social Good; Reinforcement Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Ellie Haber,,ehaber@andrew.cmu.edu,Jian Ma,BS in Computer Science,[null],ehaber@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ehaber,ehaber,https://ml.cmu.edu/images/bio/students/haber_ellie_cropped-min.jpg,New York University,,Ellie Haber,Deep Learning; Genomics; Spatial Biology; Representation Learning; Machine Learning; Interpretability,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Lane Lewis,,lrlewis@andrew.cmu.edu,Xaq Pitkow,B.S. in Mathematics and Neuroscience,[null],lrlewis@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/lrlewis,lrlewis,https://ml.cmu.edu/people/phd-student-photos/lewis_lane-min.jpeg,University of Arizona,Computational Neuroscience & Machine Learning Joint PhD Degree,Lane Lewis,Brain-Inspired Machine Learning; Neural Networks; Computational Neuroscience,"[{""type"": ""website"", ""url"": ""https://lanelewis.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Shanda Li,,shandal@andrew.cmu.edu,Yiming Yang,B.Sc in Computer Science,[null],shandal@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/shandal,shandal,https://ml.cmu.edu/images/bio/students/shanda_li_cropped-min.jpg,Peking University,,Shanda Li,Machine Learning,"[{""type"": ""website"", ""url"": ""https://lithiumda.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Kevin Li,,kyl2@andrew.cmu.edu,Albert Gu; Zico Kolter,B.Sc in Computer Science; B.Sc in Biomedical Engineering,[null],kyl2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/kyl2,kyl2,https://ml.cmu.edu/images/bio/students/li_kevin_f23_cropped-min.jpg,Georgia Institute of Technology,,Kevin Li,Deep Learning; Computer Vision; Machine Learning; Robustness; Interpretability,"[{""type"": ""website"", ""url"": ""https://www.kevinyli.com"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Jing Yu Koh,,jingyuk@andrew.cmu.edu,Daniel Fried; Russ Salakhutdinov,B.E. in Information Systems,[null],jingyuk@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jingyuk,jingyuk,https://ml.cmu.edu/images/bio/students/koh_jing_yu_cropped-min.jpg,Singapore University of Technology and Design,,Jing Yu Koh,Machine Learning; Multi-Modal Learning,"[{""type"": ""website"", ""url"": ""https://jykoh.com"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Chris Ki,,cski@andrew.cmu.edu,Byron Yu; Matthew Smith,BA in Computer Science and Molecular Cell Biology: Neurobiology,[null],cski@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/cski,cski,https://ml.cmu.edu/people/photos/ki_chris-min.jpg,UC Berkeley,Neural Computation & Machine Learning Joint PhD Degree,Chris Ki,Brain-Computer Interfaces; Dimensionality Reduction; Computational Neuroscience,"[{""type"": ""website"", ""url"": ""https://chriski.me"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Santiago Cortés,,scortesg@andrew.cmu.edu,Bryan Wilder,BSc Mathematics,[null],scortesg@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/scortesg,scortesg,https://ml.cmu.edu/images/bio/students/cortez_gomez_santiago-min.jpg,Universidad de los Andes,,Santiago Cortés,Machine Learning for Healthcare and Public Health,"[{""type"": ""website"", ""url"": ""https://secg5.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Nari Johnson,,narij@andrew.cmu.edu,Hoda Heidari,BA and MSc in Computer Science,[null],narij@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/narij,narij,https://ml.cmu.edu/images/bio/students/johnson_nari_cropped.jpg,Harvard University,,Nari Johnson,Interpretability; Transparency; Robustness; Human-AI Interaction,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Brandon Trabucco,,btrabucc@andrew.cmu.edu,Russ Salakhutdinov,B.S. in EECS,[null],btrabucc@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/btrabucc,btrabucc,https://ml.cmu.edu/images/bio/students/trabucco_brandon-min.jpg,UC Berkeley,,Brandon Trabucco,Deep Learning; Reinforcement Learning; Probabilistic Models,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Aravind Venugopal,,avenugo2@andrew.cmu.edu,Jeff Schneider,MS in Machine Learning,[null],avenugo2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/avenugo2,avenugo2,https://ml.cmu.edu/people/phd-student-photos/venugopal_aravind-min.jpg,Carnegie Mellon University,,Aravind Venugopal,Reinforcement Learning; Multiagent Systems,"[{""type"": ""website"", ""url"": ""https://aravindvenu7.github.io/website/"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Niki Hasrati,,nhasrati@andrew.cmu.edu,Andrej Risteski,Master of Mathematics (MMath); Bachelor of Computer Science (BCS),[null],nhasrati@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/nhasrati,nhasrati,https://ml.cmu.edu/people/phd-student-photos/hasrati_niki-min.jpg,University of Waterloo,,Niki Hasrati,Computational Learning Theory; Theoretical Computer Science,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Samuel Sokota,,ssokota@andrew.cmu.edu,Zico Kolter,MS in Computer Science; BA in Mathematics,[null],ssokota@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ssokota,ssokota,https://ml.cmu.edu/images/bio/students/sokota_sam-min.jpg,University of Alberta; Swarthmore College,,Samuel Sokota,Machine Learning; Reinforcement Learning; Game Theory; Online Learning; Optimization,"[{""type"": ""website"", ""url"": ""https://ssokota.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Lili Chen,,lilic@andrew.cmu.edu,Deepak Pathak,BA in Computer Science,[null],lilic@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/lilic,lilic,https://ml.cmu.edu/images/bio/students/chen_lili-min.jpg,"University of California, Berkeley",,Lili Chen,Deep Learning; Reinforcement Learning; Unsupervised Learning; Robotics,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Saumya Goyal,,saumyag@andrew.cmu.edu,Maria-Florina Balcan,MS in Computer Science,[null],saumyag@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/saumyag,saumyag,https://ml.cmu.edu/people/photos/goyal_saumya_cropped-min.jpg,Stanford University,,Saumya Goyal,Machine Learning; Deep Learning Theory,"[{""type"": ""website"", ""url"": ""https://sites.google.com/view/saumg"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Xiangchen Song,,xiangchs@andrew.cmu.edu,Kun Zhang,B.S. in Mathematics and Computer Science,[null],xiangchs@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/xiangchs,xiangchs,https://ml.cmu.edu/images/bio/students/song_xiangchen_cropped-min.jpg,University of Illinois at Urbana-Champaign,,Xiangchen Song,Machine Learning; Data Mining,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Daniel Jeong,,danielje@andrew.cmu.edu,Pradeep Ravikumar; Zack Lipton,B.S. in Computer Science,[null],danielje@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/danielje,danielje,https://ml.cmu.edu/images/bio/students/jeong_daniel-min.jpeg,Columbia University,,Daniel Jeong,Statistical Machine Learning; Robustness; Machine Learning for Healthcare,"[{""type"": ""website"", ""url"": ""http://djeong.com"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Ezra Winston,,ewinston@andrew.cmu.edu,Zico Kolter,MS in Machine Learning,[null],ewinston@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/ewinston,ewinston,https://ml.cmu.edu/images/bio/students/Winston-Ezra-min.jpg,Carnegie Mellon University,,Ezra Winston,Natural Language Understanding; Representation Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Tomas Gonzalez Lara,,tcgonzal@andrew.cmu.edu,Aaditya Ramdas; Giulia Fanti,MS in Engineering; BSE in Mathematical Engineering,[null],tcgonzal@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/tcgonzal,tcgonzal,https://ml.cmu.edu/images/bio/students/gonzalez_tomas.jpg,Pontificia Universidad Católica de Chile,,Tomas Gonzalez Lara,Optimization; Differential Privacy; Machine Learning Theory,"[{""type"": ""website"", ""url"": ""https://tsgonzalez.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Karish Grover,,karishg@andrew.cmu.edu,Christos Faloutsos; Geoff Gordon,B.Tech in Computer Science and Artificial Intelligence (CSAI),[null],karishg@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/karishg,karishg,https://ml.cmu.edu/people/phd-student-photos/grover_karish_2024_cropped-min.jpg,Indraprastha Institute of Information Technology (IIIT Delhi),,Karish Grover,Graph Machine Learning; Natural Language Processing; Knowledge Graphs; Hyperbolic Geometry,"[{""type"": ""website"", ""url"": ""https://karish-grover.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Shahriar Noroozizadeh,,snoroozi@andrew.cmu.edu,George Chen; Jeremy Weiss (NIH),MS in Machine Learning; MS in Bomedical Engineering,[null],snoroozi@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/snoroozi,snoroozi,https://ml.cmu.edu/people/photos/shahriar-photo-min.jpg,Carnegie Mellon University,Joint PhD in Machine Learning & Public Policy,Shahriar Noroozizadeh,Machine Learning for Healthcare; Representation Learning; Multimodal Machine Learning; Graphical Models; Decision-Making; Reinforcement Learning; Machine Learning for Temporal Data; Interpretability,"[{""type"": ""website"", ""url"": ""https://snoroozi.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Gaurav Ghosal,,gghosal@andrew.cmu.edu,Aditi Raghunathan,B.S. in Electrical Engineering and Computer Science,[null],gghosal@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/gghosal,gghosal,https://ml.cmu.edu/images/bio/students/ghosal_gaurav_cropped-min.jpg,"University of California, Berkeley",,Gaurav Ghosal,Robust Machine Learning; Understanding Deep Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Kelly He,,yutonghe@andrew.cmu.edu,Zico Kolter,Master's of Science in Computer Science; Bachelor of Science in Mathematics; Bachelor of Science in Data Science,[null],yutonghe@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yutonghe,yutonghe,https://ml.cmu.edu/images/bio/students/he_yutong-min.jpeg,Stanford University; University of Rochester,,Kelly He,Generative Modeling; Representation Learning; Deep Learning; Machine Learning; Computer Vision,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Zijun Ding,,zijund@andrew.cmu.edu,Alessandro Acquisti,B.S. in Mathematics; B.A. in Economics,[null],zijund@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/zijund,zijund,https://ml.cmu.edu/people/phd-student-photos/ding_zijun-min.jpg,Tsinghua University,Machine Learning & Public Policy Joint PhD Degree,Zijun Ding,Economics of AI; Privacy-Preserving ML; Reinforcement Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Zixin Wen,,zixinw@andrew.cmu.edu,Yuejie Chi; Aarti Singh,B.A. in Financial Mathematics,[null],zixinw@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/zixinw,zixinw,https://ml.cmu.edu/images/bio/students/wen_zixin_cropped-min.jpg,University of International Business and Economics in China,,Zixin Wen,Deep Learning Theory,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Jennifer Hsia,,jhsia2@andrew.cmu.edu,Zack Lipton; Aarti Singh,B.S.E. in Computer Science,[null],jhsia2@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/jhsia2,jhsia2,https://ml.cmu.edu/images/bio/students/hsia_jennifer_cropped-min.jpg,Princeton University,,Jennifer Hsia,Human-Centered Machine Learning; Fairness; Interpretability,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Dongrui Deng,,dongruid@andrew.cmu.edu,Xaq Pitkow,BS in Physics,[null],dongruid@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/dongruid,dongruid,https://ml.cmu.edu/people/phd-student-photos/deng_dongrui-min.jpg,Xi'an Jiaotong University,Computational Neuroscience & Machine Learning Joint PhD Degree,Dongrui Deng,Machine Learning; Theoretical Neuroscience,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Daman Arora,,damana@andrew.cmu.edu,Andrea Zanette,BS.Tech & M.Tech in Computer Science,[null],damana@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/damana,damana,https://ml.cmu.edu/people/phd-student-photos/arora_daman_cropped-min.jpg,IIT Delhi,,Daman Arora,Machine Learning,"[{""type"": ""website"", ""url"": ""https://daman1209arora.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Yuxin Guo,,yuxinguo@andrew.cmu.edu,Pulkit Grover,B.S. in Electrical and Computer Engineering; B.S. in Biomedical Engineering,[null],yuxinguo@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yuxinguo,yuxinguo,https://ml.cmu.edu/people/photos/guo_yuxin.jpg,Carnegie Mellon University,Neural Computation & Machine Learning Joint PhD Degree,Yuxin Guo,Brain-Computer Interfaces; Computational Neuroscience; Optimization,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Aakash Lahoti,,alahoti@andrew.cmu.edu,Albert Gu,MS in Machine Learning,[null],alahoti@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/alahoti,alahoti,https://ml.cmu.edu/images/bio/students/lahoti_aakash_cropped-min.jpg,Carnegie Mellon University,,Aakash Lahoti,Theoretical Machine Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Emily Byun,,yewonb@andrew.cmu.edu,Zack Lipton; Bryan Wilder,BS in Physics; BA in Computer Science,[null],yewonb@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yewonb,yewonb,https://ml.cmu.edu/images/bio/students/byun_yewon_cropped-min.jpg,Brown University,,Emily Byun,Robustness; Fairness; Machine Learning for Healthcare,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Yuki Minai,,yminai@andrew.cmu.edu,Byron Yu; Matthew Smith,"MS of Arts and Science in Psychology, Neuroscience",[null],yminai@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yminai,yminai,https://ml.cmu.edu/images/bio/students/minai_yuki-min.jpg,New York University,Neural Computation and Machine Learning Joint PhD Degree,Yuki Minai,Computational Neuroscience; Dimensionality Reduction; Control Theory,"[{""type"": ""website"", ""url"": ""https://yukiminai.com"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Christina Baek,,kbaek@andrew.cmu.edu,Zico Kolter; Aditi Raghunathan,BS and MS in EECS,[null],kbaek@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/kbaek,kbaek,https://ml.cmu.edu/images/bio/students/baek_christina_cropped-min.jpg,UC Berkeley,,Christina Baek,Generalization; Continual Learning; Robustness,"[{""type"": ""website"", ""url"": ""https://kebaek.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Ifigeneia Apostolopoulou,,iapostol@andrew.cmu.edu,Artur Dubrawski,BS in Electrical &amp; Computer Engineering,[null],iapostol@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/iapostol,iapostol,https://ml.cmu.edu/images/apostolopoulou-ifigeneia-500-min.jpg,University of Thessaly at Volos,,Ifigeneia Apostolopoulou,Pattern Mining; Statistical Machine Learning,,,,,,,,,,,,,,,,,,,,,,,
+cmu,Gati Aher,,gaher@andrew.cmu.edu,"Tom Mitchell,Nikolas Martelaro",BS in Engineering,[null],gaher@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/gaher,gaher,https://ml.cmu.edu/images/bio/students/aher_gati_cropped-min.jpg,Olin College of Engineering,,Gati Aher,Machine Learning for Sequential Decision-Making,"[{""type"": ""website"", ""url"": ""https://gatiaher.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+cmu,Yuda Song,,yudas@andrew.cmu.edu,Aarti Singh; Drew Bagnell,MS in Machine Learning,[null],yudas@andrew.cmu.edu,https://ml.cmu.edu/people/phd-students-people/yudas,yudas,https://ml.cmu.edu/images/bio/students/song_yuda_cropped-min.jpg,Carnegie Mellon University,,Yuda Song,Reinforcement Learning,"[{""type"": ""website"", ""url"": ""https://yudasong.github.io"", ""text"": ""Website""}]",,,,,,,,,,,,,,,,,,,,,,
+quotes,Albert Einstein,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Albert Einstein,http://quotes.toscrape.com/author/Albert-Einstein,Albert Einstein,Tags:changedeep-thoughtsthinkingworld,“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+quotes,J.K. Rowling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,J.K. Rowling,http://quotes.toscrape.com/author/J-K-Rowling,J.K. Rowling,Tags:abilitieschoices,"“It is our choices, Harry, that show what we truly are, far more than our abilities.”"
+quotes,Albert Einstein,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Albert Einstein,http://quotes.toscrape.com/author/Albert-Einstein,Albert Einstein,Tags:inspirationallifelivemiraclemiracles,“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+quotes,Jane Austen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jane Austen,http://quotes.toscrape.com/author/Jane-Austen,Jane Austen,Tags:aliteracybooksclassichumor,"“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”"
+quotes,Marilyn Monroe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Marilyn Monroe,http://quotes.toscrape.com/author/Marilyn-Monroe,Marilyn Monroe,Tags:be-yourselfinspirational,"“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”"
+quotes,Albert Einstein,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Albert Einstein,http://quotes.toscrape.com/author/Albert-Einstein,Albert Einstein,Tags:adulthoodsuccessvalue,“Try not to become a man of success. Rather become a man of value.”
+quotes,André Gide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,André Gide,http://quotes.toscrape.com/author/Andre-Gide,André Gide,Tags:lifelove,“It is better to be hated for what you are than to be loved for what you are not.”
+quotes,Thomas A. Edison,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thomas A. Edison,http://quotes.toscrape.com/author/Thomas-A-Edison,Thomas A. Edison,Tags:edisonfailureinspirationalparaphrased,"“I have not failed. I've just found 10,000 ways that won't work.”"
+quotes,Eleanor Roosevelt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Eleanor Roosevelt,http://quotes.toscrape.com/author/Eleanor-Roosevelt,Eleanor Roosevelt,Tags:misattributed-eleanor-roosevelt,“A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+quotes,Steve Martin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Steve Martin,http://quotes.toscrape.com/author/Steve-Martin,Steve Martin,Tags:humorobvioussimile,"“A day without sunshine is like, you know, night.”"
+iitm,Aishwarya Thiruvengadam,https://cse.iitm.ac.in/innerfaculty.php?fname=Aishwarya Thiruvengadam,aishwarya@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,aishwarya@cse.iitm.ac.in,img/outerfaculty/aishwaryat.png,CCD.,Aishwarya Thiruvengadam,SSB 106,https://sites.google.com/view/aishwaryat,(+91)-44-2257-4388,https://cse.iitm.ac.in/innerfaculty.php?fname=Aishwarya Thiruvengadam,"Cryptography, Security, and Privacy",Theoretical Computer Science,Assistant Professor,,,,,,,,,
+iitm,Akanksha Agrawal,https://cse.iitm.ac.in/innerfaculty.php?fname=Akanksha Agrawal,akanksha@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,akanksha@cse.iitm.ac.in,img/outerfaculty/akansha.png,RAnG.,Akanksha Agrawal,SSB 405,https://akanksha-agrawal.weebly.com/,(+91)-44-2257-4391,https://cse.iitm.ac.in/innerfaculty.php?fname=Akanksha Agrawal,"Parameterized Complexity, Computational Geometry",Theoretical Computer Science,Assistant Professor,,,,,,,,,
+iitm,Anantha Padmanabha,https://cse.iitm.ac.in/innerfaculty.php?fname=Anantha Padmanabha,ananthap@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,ananthap@cse.iitm.ac.in,img/outerfaculty/anantha.png,,Anantha Padmanabha,SSB 103,https://padmanabha-anantha.github.io/website/,(+91)-44-2257-4397,https://cse.iitm.ac.in/innerfaculty.php?fname=Anantha Padmanabha,Foundations of Databases and Predicate Modal Logics,"Theoretical Computer Science, Systems and Networking",Assistant Professor,,,,,,,,,
+iitm,Anurag Mittal,https://cse.iitm.ac.in/innerfaculty.php?fname=Anurag Mittal,amittal@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,amittal@cse.iitm.ac.in,img/outerfaculty/anuragmittal.png,Vision Lab.,Anurag Mittal,SSB 105,https://cse.iitm.ac.in/~amittal/,(+91)-44-2257-4372,https://cse.iitm.ac.in/innerfaculty.php?fname=Anurag Mittal,"Computer vision, Multi-camera vision systems, Sensor planning, Surveillance, Computer graphics",Artificial Intelligence and Machine Learning,Professor,,,,,,,,,
+iitm,Anurag Pandey,https://cse.iitm.ac.in/innerfaculty.php?fname=Anurag Pandey,,,,,,,,,,,,,,Duration with CSE Dept : Sep 2022 to Jan 2023,Assistant Professor,,img/outerfaculty/AnuragPandey.jpg,,Anurag Pandey,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Anurag Pandey,"Algebraic complexity theory, theory of computation",,Former Faculty,,,,,,,,,
+iitm,Aritra Hazra,https://cse.iitm.ac.in/innerfaculty.php?fname=Aritra Hazra,,,,,,,,,,,,,,Duration with CSE Dept : Aug 2015 to Dec 2017,"Faculty, IIT Kharagpur",,img/outerfaculty/aritra.jpg,,Aritra Hazra,,https://cse.iitkgp.ac.in/~aritrah/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Aritra Hazra,"Formal Methods, Design Verification, VLSI CAD, Reliability, Fault-tolerant Systems, Embedded Control Scheduling",,Former Faculty,,,,,,,,,
+iitm,Arun Rajkumar,https://cse.iitm.ac.in/innerfaculty.php?fname=Arun Rajkumar,arunr@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,arunr@cse.iitm.ac.in,img/outerfaculty/arun.png,MALT.,Arun Rajkumar,SSB 414,https://sites.google.com/view/arun-rajkumar,(+91)-44-2257-4389,https://cse.iitm.ac.in/innerfaculty.php?fname=Arun Rajkumar,"Machine Learning, Rank Aggregation, Statistical Learning",Artificial Intelligence and Machine Learning,Assistant Professor,,,,,,,,,
+iitm,Ashrujit Ghoshal,https://cse.iitm.ac.in/innerfaculty.php?fname=Ashrujit Ghoshal,ashrujit@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,ashrujit@cse.iitm.ac.in,img/outerfaculty/ashrujit.jpeg,,Ashrujit Ghoshal,SSB 206,https://cse.iitm.ac.in/~ashrujit/,(+91)-44-2257-4361,https://cse.iitm.ac.in/innerfaculty.php?fname=Ashrujit Ghoshal,"Cryptography, Security, Theoretical Computer Science",Theoretical Computer Science,Assistant Professor,,,,,,,,,
+iitm,Ayon Chakraborty,https://cse.iitm.ac.in/innerfaculty.php?fname=Ayon Chakraborty,ayon@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,ayon@cse.iitm.ac.in,img/outerfaculty/ayon.jpg,SeNSE Lab.,Ayon Chakraborty,SSB 201,https://cse.iitm.ac.in/~ayon/,(+91)-44-2257-4390,https://cse.iitm.ac.in/innerfaculty.php?fname=Ayon Chakraborty,"Mobile and wireless systems, IoT technologies, Embedded AI/ML, Edge computing","Systems and Networking, Artificial Intelligence and Machine Learning",Assistant Professor,,,,,,,,,
+iitm,Balaraman Ravindran,https://cse.iitm.ac.in/innerfaculty.php?fname=Balaraman Ravindran,ravi@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,ravi@cse.iitm.ac.in,img/outerfaculty/balaraman.png,"ACT Lab, ToC.",Balaraman Ravindran,SSB 402,https://wsai.iitm.ac.in/~ravi/,(+91)-44-2257-4370,https://cse.iitm.ac.in/innerfaculty.php?fname=Balaraman Ravindran,"Machine learning, Reinforcement learning, Social Network Analysis, Data and text mining",Artificial Intelligence and Machine Learning,Professor,,,,,,,,,
+iitm,Chandra Sekhar C,https://cse.iitm.ac.in/innerfaculty.php?fname=Chandra Sekhar C,chandra@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,chandra@cse.iitm.ac.in,img/outerfaculty/chandra.png,"SV Lab, SMV Lab.",Chandra Sekhar C,SSB 407,,(+91)-44-2257-4363,https://cse.iitm.ac.in/innerfaculty.php?fname=Chandra Sekhar C,"Speech recognition, Neural networks, Kernel methods, Computer architecture",Artificial Intelligence and Machine Learning,Professor,,,,,,,,,
+iitm,Chandrashekar Lakshminarayanan,https://cse.iitm.ac.in/innerfaculty.php?fname=Chandrashekar Lakshminarayanan,chandrashekar@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,chandrashekar@cse.iitm.ac.in,img/outerfaculty/chandrasekar.png,MALT.,Chandrashekar Lakshminarayanan,SSB 102,https://sites.google.com/view/chandrashekar-lakshminarayanan,(+91)-44-2257-4358,https://cse.iitm.ac.in/innerfaculty.php?fname=Chandrashekar Lakshminarayanan,"Deep Learning, Reinforcement Learning, Stochastic Approximation and Large Scale Markov Decision Processes",Artificial Intelligence and Machine Learning,Assistant Professor,,,,,,,,,
+iitm,Chester Rebeiro,https://cse.iitm.ac.in/innerfaculty.php?fname=Chester Rebeiro,chester@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,chester@cse.iitm.ac.in,img/outerfaculty/chester.png,"VLSI Lab, CASL Lab, SPACE.",Chester Rebeiro,SSB 303,https://cse.iitm.ac.in/~chester/,(+91)-44-2257-4355,https://cse.iitm.ac.in/innerfaculty.php?fname=Chester Rebeiro,"Hardware Security, Operating System Security, Side-channel Analysis, Cryptography",Systems and Networking,Professor,,,,,,,,,
+iitm,Debdeep Mukhopadhyay,https://cse.iitm.ac.in/innerfaculty.php?fname=Debdeep Mukhopadhyay,,,,,,,,,,,,,,Duration with CSE Dept : Sep 2006 to Apr 2008,"Faculty, IIT Kharagpur",,img/outerfaculty/debdeep.jpg,,Debdeep Mukhopadhyay,,https://sites.google.com/view/debdeepmukhopadhyay/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Debdeep Mukhopadhyay,"Cryptography, VLSI (Design and Test) of Cryptographic Algorithms",,Former Faculty,,,,,,,,,
+iitm,Deepak Khemani,https://cse.iitm.ac.in/innerfaculty.php?fname=Deepak Khemani,,,,,,,,,,,,,,Duration with CSE Dept : Jul 1989 to Jul 2023,"Professor, Plaksha University",,img/outerfaculty/khemani.jpg,,Deepak Khemani,,https://plaksha.edu.in/faculty-details/dr-deepak-khemani,,https://cse.iitm.ac.in/innerfaculty.php?fname=Deepak Khemani,"Artifical intelligence, Knowledge-based systems, Case-based reasoning, Knowledge representation, Planning, Logic, Natural language processing",,Former Faculty,,,,,,,,,
+iitm,Gopalakrishnan Srinivasan,https://cse.iitm.ac.in/innerfaculty.php?fname=Gopalakrishnan Srinivasan,sgopal@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,sgopal@cse.iitm.ac.in,img/outerfaculty/gopal.png,,Gopalakrishnan Srinivasan,SSB 202,,(+91)-44-2257-4394,https://cse.iitm.ac.in/innerfaculty.php?fname=Gopalakrishnan Srinivasan,"Computer Architecture, Machine Learning","Systems and Networking, Artificial Intelligence and Machine Learning",Assistant Professor,,,,,,,,,
+iitm,Harish Guruprasad Ramaswamy,https://cse.iitm.ac.in/innerfaculty.php?fname=Harish Guruprasad Ramaswamy,hariguru@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,hariguru@cse.iitm.ac.in,img/outerfaculty/harish.png,"IIL Lab, MALT.",Harish Guruprasad Ramaswamy,SSB 413,https://sites.google.com/site/harishguruprasad/,(+91)-44-2257-4385,https://cse.iitm.ac.in/innerfaculty.php?fname=Harish Guruprasad Ramaswamy,"Machine Learning, Learning Theory and Optimisation.",Artificial Intelligence and Machine Learning,Assistant Professor,,,,,,,,,
+iitm,Hema A Murthy,https://cse.iitm.ac.in/innerfaculty.php?fname=Hema A Murthy,hema@cse.iitm.ac.in,,,,,,,,,,,,,,Professor Emeritus (Honorary),hema@cse.iitm.ac.in,img/outerfaculty/hema.png,,Hema A Murthy,SSB 104,,(+91)-44-2257-4364,https://cse.iitm.ac.in/innerfaculty.php?fname=Hema A Murthy,"Speech Processing, Music information Retrieval.",Artificial Intelligence and Machine Learning,Professor,,,,,,,,,
+iitm,Janakiram D,https://cse.iitm.ac.in/innerfaculty.php?fname=Janakiram D,djram@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,djram@cse.iitm.ac.in,img/outerfaculty/janakiramd.png,DOS Lab.,Janakiram D,SSB 107,,(+91)-44-2257-4354,https://cse.iitm.ac.in/innerfaculty.php?fname=Janakiram D,"Large Scale Distributed Systems, Cloud and Grid Computing, Big Data Systems",Systems and Networking,Professor,,,,,,,,,
+iitm,Jayalal Sarma M N,https://cse.iitm.ac.in/innerfaculty.php?fname=Jayalal Sarma M N,jayalal@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,jayalal@cse.iitm.ac.in,img/outerfaculty/jayalal.png,"ACT Lab, ToC.",Jayalal Sarma M N,SSB 306,https://cse.iitm.ac.in/~jayalal/,(+91)-44-2257-4357,https://cse.iitm.ac.in/innerfaculty.php?fname=Jayalal Sarma M N,"Structural & Computational Complexity theory, Circuit Complexity, Lower bounds, Derandomization.",Theoretical Computer Science,Professor,,,,,,,,,
+iitm,John Ebenezer Augustine,https://cse.iitm.ac.in/innerfaculty.php?fname=John Ebenezer Augustine,augustine@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,augustine@cse.iitm.ac.in,img/outerfaculty/john.png,"ACT Lab, CCD.",John Ebenezer Augustine,CSB 12,https://cse.iitm.ac.in/~augustine/,(+91)-44-2257-4383,https://cse.iitm.ac.in/innerfaculty.php?fname=John Ebenezer Augustine,"Distributed Algorithms, Optimization Algorithms, Computational Geometry, Algorithmic Game Theory","Theoretical Computer Science, Systems and Networking",Professor,,,,,,,,,
+iitm,Kadathur B. Lakshmanan,https://cse.iitm.ac.in/innerfaculty.php?fname=Kadathur B. Lakshmanan,,,,,,,,,,,,,,Duration with CSE Dept : Dec 1980 to Apr 1986,"Faculty at Concordia University, Montreal, Canada",,img/outerfaculty/KBL.jpg,,Kadathur B. Lakshmanan,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Kadathur B. Lakshmanan,"Programming Methodologies, Data Structures and Analysis of Algorithms",,Former Faculty,,,,,,,,,
+iitm,Kalyana Krishnan R,https://cse.iitm.ac.in/innerfaculty.php?fname=Kalyana Krishnan R,,,,,,,,,,,,,,Duration with CSE Dept : Aug 1972 to Mar 2011,Retired from Service,,img/outerfaculty/rkk.jpg,,Kalyana Krishnan R,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Kalyana Krishnan R,Computing with Indian Languages. Statistical Signal Processing of Biomedical or Acoustic Signals,,Former Faculty,,,,,,,,,
+iitm,Kamakoti V,https://cse.iitm.ac.in/innerfaculty.php?fname=Kamakoti V,kama@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,kama@cse.iitm.ac.in,img/outerfaculty/kamakoti.png,RISE,Kamakoti V,SSB 301,,(+91)-44-2257-4368,https://cse.iitm.ac.in/innerfaculty.php?fname=Kamakoti V,"Software aspects of VLSI design, Cluster computing, High-performance computing, Algorithms, Data structures, Computational Geometry",Systems and Networking,Professor,,,,,,,,,
+iitm,Kamala Krithivasan,https://cse.iitm.ac.in/innerfaculty.php?fname=Kamala Krithivasan,,,,,,,,,,,,,,Duration with CSE Dept : Aug 1975 to Jun 2014,Retired from Service,,img/outerfaculty/kamala.jpg,,Kamala Krithivasan,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Kamala Krithivasan,Unconventional Models of Computation. Automata Theory,,Former Faculty,,,,,,,,,
+iitm,Kartik Nagar,https://cse.iitm.ac.in/innerfaculty.php?fname=Kartik Nagar,nagark@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,nagark@cse.iitm.ac.in,img/outerfaculty/kartik.png,,Kartik Nagar,SSB 401,https://kartiknagar.github.io/,(+91)-44-2257-4387,https://cse.iitm.ac.in/innerfaculty.php?fname=Kartik Nagar,"Automated Formal Verification, Program Analysis, Programming Languages.",Systems and Networking,Assistant Professor,,,,,,,,,
+iitm,Krishna M Sivalingam,https://cse.iitm.ac.in/innerfaculty.php?fname=Krishna M Sivalingam,skrishnam@cse.iitm.ac.in,,,,,,,,,,,,,,Professor(Gopalakrishnan Institute Chair Professor),skrishnam@cse.iitm.ac.in,img/outerfaculty/krishnamoorthy.png,DAWNLAB.,Krishna M Sivalingam,SSB 313,https://cse.iitm.ac.in/~skrishnam/,(+91)-44-2257-4378,https://cse.iitm.ac.in/innerfaculty.php?fname=Krishna M Sivalingam,"Wireless networks, Sensor networks, Optical networks",Systems and Networking,Professor,,,,,,,,,
+iitm,Krishna Nandivada V,https://cse.iitm.ac.in/innerfaculty.php?fname=Krishna Nandivada V,nvk@iitm.ac.in,,,,,,,,,,,,,,Professor,nvk@iitm.ac.in,img/outerfaculty/krishna.png,PACE Lab.,Krishna Nandivada V,SSB 406,https://cse.iitm.ac.in/~krishna/,(+91)-44-2257-4380,https://cse.iitm.ac.in/innerfaculty.php?fname=Krishna Nandivada V,"Compilers, Program Analysis, Programming Languages, High Performance Computing",Systems and Networking,Professor,,,,,,,,,
+iitm,Lakshmivarahan S,https://cse.iitm.ac.in/innerfaculty.php?fname=Lakshmivarahan S,,,,,,,,,,,,,,Duration with CSE Dept : Jan 1970 to Feb 1971,Visiting Faculty in Brown University,,img/outerfaculty/Varahan.jpg,,Lakshmivarahan S,,https://www.ou.edu/coe/cs/people/faculty/s-lakshmivarahan,,https://cse.iitm.ac.in/innerfaculty.php?fname=Lakshmivarahan S,,,Former Faculty,,,,,,,,,
+iitm,Madhu Mutyam,https://cse.iitm.ac.in/innerfaculty.php?fname=Madhu Mutyam,madhu@cse.iitm.ac.in,,,,,,,,,,,,,Assumed charge as the Head of the Department of Computer Science and Engineering from October 2025,Professor & Head of the Department,madhu@cse.iitm.ac.in,img/outerfaculty/madhu.jpg,PACE Lab.,Madhu Mutyam,CS23 / SSB 214,https://cse.iitm.ac.in/~madhu/,(+91)-44-2257-4351 / (+91)-44-2257-4379,https://cse.iitm.ac.in/innerfaculty.php?fname=Madhu Mutyam,"Memory subsystem design, Network-on-chip architectures, Shared resource management.",Systems and Networking,Professor,,,,,,,,,
+iitm,Mahabala H N,https://cse.iitm.ac.in/innerfaculty.php?fname=Mahabala H N,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1972 to Jun 1995,Retired from Service,,img/outerfaculty/HNM.jpg,,Mahabala H N,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Mahabala H N,Software Engineering and Embedded Systems,,Former Faculty,,,,,,,,,
+iitm,Manikandan Narayanan,https://cse.iitm.ac.in/innerfaculty.php?fname=Manikandan Narayanan,nmanik@cse.iitm.ac.in,,,,,,,,,,,,,,Associate Professor,nmanik@cse.iitm.ac.in,img/outerfaculty/manikandan.png,BIRDS.,Manikandan Narayanan,SSB 315,http://maninarayanan.com/index.html,(+91)-44-2257-4375,https://cse.iitm.ac.in/innerfaculty.php?fname=Manikandan Narayanan,"Bioinformatics, Computational network biology, Systems biology/genomics in health and disease, Data science.",Artificial Intelligence and Machine Learning,Associate Professor,,,,,,,,,
+iitm,Meghana Nasre,https://cse.iitm.ac.in/innerfaculty.php?fname=Meghana Nasre,meghana@cse.iitm.ac.in,,,,,,,,,,,,,,Associate Professor,meghana@cse.iitm.ac.in,img/outerfaculty/meghana.png,"TCS Lab, RAnG.",Meghana Nasre,CSB 11,https://cse.iitm.ac.in/~meghana/,(+91)-44-2257-4373,https://cse.iitm.ac.in/innerfaculty.php?fname=Meghana Nasre,"Graph theory, Algorithms, Matching with preferences.",Theoretical Computer Science,Associate Professor,,,,,,,,,
+iitm,Mitesh Khapra,https://cse.iitm.ac.in/innerfaculty.php?fname=Mitesh Khapra,miteshk@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,miteshk@cse.iitm.ac.in,img/outerfaculty/mitesh.png,,Mitesh Khapra,SSB 415,https://cse.iitm.ac.in/~miteshk/,(+91)-44-2257-4371,https://cse.iitm.ac.in/innerfaculty.php?fname=Mitesh Khapra,"Statistical Machine Translation, Text Analytics, Deep Learning and Crowd-sourcing",Artificial Intelligence and Machine Learning,Professor,,,,,,,,,
+iitm,Mukulika Maity,https://cse.iitm.ac.in/innerfaculty.php?fname=Mukulika Maity,mukulika@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,mukulika@cse.iitm.ac.in,img/outerfaculty/mukulika.jpg,,Mukulika Maity,SSB 213,https://cse.iitm.ac.in/~mukulika/,(+91)-44-2257-4398,https://cse.iitm.ac.in/innerfaculty.php?fname=Mukulika Maity,"Wireless Networks, Wireless Sensing, Computer Networks, Mobile Systems",Systems and Networking,Assistant Professor,,,,,,,,,
+iitm,Muthukrishnan C R,https://cse.iitm.ac.in/innerfaculty.php?fname=Muthukrishnan C R,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1965 to Sep 2005,Retired from Service,,img/outerfaculty/CRM.jpg,,Muthukrishnan C R,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Muthukrishnan C R,"Software engineering, Computer architecture, Distributed and parallel systems, Object oriented systems and Databases",,Former Faculty,,,,,,,,,
+iitm,Nagarajan,https://cse.iitm.ac.in/innerfaculty.php?fname=Nagarajan,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1970 to Feb 1993,Retired from Service,,img/outerfaculty/dummy.png,,Nagarajan,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Nagarajan,,,Former Faculty,,,,,,,,,
+iitm,Narayanaswamy N S,https://cse.iitm.ac.in/innerfaculty.php?fname=Narayanaswamy N S,swamy@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,swamy@cse.iitm.ac.in,img/outerfaculty/narayanaswamy.png,"AIDB Lab, TCS Lab, ToC.",Narayanaswamy N S,SSB 101,https://home.iitm.ac.in/swamy/,(+91)-44-2257-4369,https://cse.iitm.ac.in/innerfaculty.php?fname=Narayanaswamy N S,"Analysis of algorithms, Parameterized Complexity theory, Artificial Intelligence",Theoretical Computer Science,Professor,,,,,,,,,
+iitm,Nishad Kothari,https://cse.iitm.ac.in/innerfaculty.php?fname=Nishad Kothari,nishad@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,nishad@cse.iitm.ac.in,img/outerfaculty/nishad.png,RAnG.,Nishad Kothari,SSB 404,https://sites.google.com/view/nishadkothari,(+91)-44-2257-4360,https://cse.iitm.ac.in/innerfaculty.php?fname=Nishad Kothari,"Graph theory, Matching theory, Combinatorial Optimization",Theoretical Computer Science,Assistant Professor,,,,,,,,,
+iitm,Pandu Rangan C,https://cse.iitm.ac.in/innerfaculty.php?fname=Pandu Rangan C,,,,,,,,,,,,,,Duration with CSE Dept : Jul 1985 to Jul 2021,Sathish Dhawan Visiting Chair Professor at IISc Bangalore,,img/outerfaculty/cpr.jpg,,Pandu Rangan C,,https://en.wikipedia.org/wiki/C._Pandu_Rangan,,https://cse.iitm.ac.in/innerfaculty.php?fname=Pandu Rangan C,"Cryptography and Security Protocols, Graph theory, Computational Geometry, Randomized and Parallel Algorithms",,Former Faculty,,,,,,,,,
+iitm,Parameswaran N,https://cse.iitm.ac.in/innerfaculty.php?fname=Parameswaran N,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1982 to Sep 1991,"Faculty at University of New South Wales, Kensington, Australia",,img/outerfaculty/dummy.png,,Parameswaran N,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Parameswaran N,,,Former Faculty,,,,,,,,,
+iitm,Prashanth L A,https://cse.iitm.ac.in/innerfaculty.php?fname=Prashanth L A,prashla@cse.iitm.ac.in,,,,,,,,,,,,,,Associate Professor,prashla@cse.iitm.ac.in,img/outerfaculty/prasanth.png,RL.,Prashanth L A,SSB 314,https://cse.iitm.ac.in/~prashla/,(+91)-44-2257-4377,https://cse.iitm.ac.in/innerfaculty.php?fname=Prashanth L A,"Reinforcement Learning, Stochastic Optimization, Multi-armed Bandits.",Artificial Intelligence and Machine Learning,Associate Professor,,,,,,,,,
+iitm,Pulkit Verma,https://cse.iitm.ac.in/innerfaculty.php?fname=Pulkit Verma,pulkitv@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,pulkitv@cse.iitm.ac.in,img/outerfaculty/pulkit.jpg,,Pulkit Verma,SSB 304,https://pulkitverma.net/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Pulkit Verma,"AI safety, AI planning, action-model learning, interpretability, and analysis of abstractions",Artificial Intelligence and Machine Learning,Assistant Professor,,,,,,,,,
+iitm,Raghavan S V,https://cse.iitm.ac.in/innerfaculty.php?fname=Raghavan S V,,,,,,,,,,,,,,Duration with CSE Dept : Jul 1974 to Jun 2016,Retired from Service,,img/outerfaculty/svr.jpg,,Raghavan S V,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Raghavan S V,"Computer networks and protocols. Security, Electronic commerce, Data warehousing",,Former Faculty,,,,,,,,,
+iitm,Raghavendra Rao B V,https://cse.iitm.ac.in/innerfaculty.php?fname=Raghavendra Rao B V,bvrr@cse.iitm.ac.in,,,,,,,,,,,,,,Associate Professor,bvrr@cse.iitm.ac.in,img/outerfaculty/ragavendra.png,"ACT Lab, ToC.",Raghavendra Rao B V,SSB 205,https://cse.iitm.ac.in/~bvrr/,(+91)-44-2257-4381,https://cse.iitm.ac.in/innerfaculty.php?fname=Raghavendra Rao B V,"Structural aspects of Arithmetic and Boolean Circuits, Computation on Algebraic and Combinatorial Structures, Combinatorial Commutative Algebra",Theoretical Computer Science,Associate Professor,,,,,,,,,
+iitm,Rajsekar Manokaran,https://cse.iitm.ac.in/innerfaculty.php?fname=Rajsekar Manokaran,,,,,,,,,,,,,,Duration with CSE Dept : Oct 2014 to Apr 2017,Assistant Professor,,img/outerfaculty/rajsekar.jpg,,Rajsekar Manokaran,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Rajsekar Manokaran,"Convex Relaxations, Approximation Algorithms. Probablistically Checkable Proofs, Inapproximability",,Former Faculty,,,,,,,,,
+iitm,Raman S,https://cse.iitm.ac.in/innerfaculty.php?fname=Raman S,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1965 to Dec 2005,Retired from Service,,img/outerfaculty/SRaman.jpg,,Raman S,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Raman S,"Computer system design, Microprocessor based peripherals, Natural language processing, Multimedia",,Former Faculty,,,,,,,,,
+iitm,Ramana Rao G V,https://cse.iitm.ac.in/innerfaculty.php?fname=Ramana Rao G V,,,,,,,,,,,,,,Duration with CSE Dept : Jul 1988 to Feb 1997,"Stanford Research Institute (SRI), San Jose , USA",,img/outerfaculty/GVRR.jpg,,Ramana Rao G V,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Ramana Rao G V,,,Former Faculty,,,,,,,,,
+iitm,Ravi Mittal,https://cse.iitm.ac.in/innerfaculty.php?fname=Ravi Mittal,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1990 to Sep 1997,"Hughes Software Systems, Bangalore",,img/outerfaculty/RaviMittal.jpg,,Ravi Mittal,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Ravi Mittal,"Switching networks, Computer Architecture, Fault tolerant Computing",,Former Faculty,,,,,,,,,
+iitm,Ravi Prakash Gorthi,https://cse.iitm.ac.in/innerfaculty.php?fname=Ravi Prakash Gorthi,,,,,,,,,,,,,,Duration with CSE Dept : May 1987 to Jul 1995,"IBM Global Services, Bangalore",,img/outerfaculty/RaviPrakashGorthi.jpg,,Ravi Prakash Gorthi,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Ravi Prakash Gorthi,,,Former Faculty,,,,,,,,,
+iitm,Rupesh Nasre,https://cse.iitm.ac.in/innerfaculty.php?fname=Rupesh Nasre,rupesh@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,rupesh@cse.iitm.ac.in,img/outerfaculty/rupesh.png,PACE Lab.,Rupesh Nasre,CSB 10,https://cse.iitm.ac.in/~rupesh/,(+91)-44-2257-4374,https://cse.iitm.ac.in/innerfaculty.php?fname=Rupesh Nasre,"Compilers, Parallelization.",Systems and Networking,Professor,,,,,,,,,
+iitm,Sampath S,https://cse.iitm.ac.in/innerfaculty.php?fname=Sampath S,,,,,,,,,,,,,,Duration with CSE Dept : Apr 1973 to Feb 1981,"Director, IIT Kanpur",,img/outerfaculty/sampath.jpg,,Sampath S,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Sampath S,,,Former Faculty,,,,,,,,,
+iitm,Sayan Ranu,https://cse.iitm.ac.in/innerfaculty.php?fname=Sayan Ranu,,,,,,,,,,,,,,Duration with CSE Dept : Jan 2014 to Dec 2017,"Faculty, IIT Delhi",,img/outerfaculty/sayan.jpg,,Sayan Ranu,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Sayan Ranu,"Graph Indexing, Graph Mining, Trajectory Analytics, Bioinformatics",,Former Faculty,,,,,,,,,
+iitm,Shankar Balachandran,https://cse.iitm.ac.in/innerfaculty.php?fname=Shankar Balachandran,,,,,,,,,,,,,,Duration with CSE Dept : Jul 2005 to Feb 2016,"Intel Research Labs, Bangalore, India",,img/outerfaculty/shankar.jpg,,Shankar Balachandran,,https://cse.iitm.ac.in/~shankar/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Shankar Balachandran,"CAD for VLSI, Reconfigurable computing, Computer architecture",,Former Faculty,,,,,,,,,
+iitm,Shreyas Kiran Pai,https://cse.iitm.ac.in/innerfaculty.php?fname=Shreyas Kiran Pai,shreyas@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,shreyas@cse.iitm.ac.in,img/outerfaculty/shreyas.png,,Shreyas Kiran Pai,SSB 203,https://shreyaspai.com/,(+91)-44-2257-4395,https://cse.iitm.ac.in/innerfaculty.php?fname=Shreyas Kiran Pai,Theory of Distributed and Parallel Computing,Theoretical Computer Science,Assistant Professor,,,,,,,,,
+iitm,Shweta Agrawal,https://cse.iitm.ac.in/innerfaculty.php?fname=Shweta Agrawal,shwetaag@cse .iitm.ac .in,,,,,,,,,,,,,,Professor,shwetaag@cse .iitm.ac .in,img/outerfaculty/shweta.png,"TCS Lab, CCD.",Shweta Agrawal,SSB 403,https://cse.iitm.ac.in/~shwetaag/,(+91)-44-2257-4384,https://cse.iitm.ac.in/innerfaculty.php?fname=Shweta Agrawal,Cryptography and Information theory,Theoretical Computer Science,Professor,,,,,,,,,
+iitm,Siva Ram Murthy C,https://cse.iitm.ac.in/innerfaculty.php?fname=Siva Ram Murthy C,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1988 to Jun 2025,"Prof. Richard Karp Institute Chair Professor, IIT Madras",,img/outerfaculty/murthy.jpg,,Siva Ram Murthy C,,https://cse.iitm.ac.in/~murthy/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Siva Ram Murthy C,"Ad hoc wireless networks, Parallel and distributed computing, Real-time systems, Computer networks",,Former Faculty,,,,,,,,,
+iitm,Sivaramakrishnan K C,https://cse.iitm.ac.in/innerfaculty.php?fname=Sivaramakrishnan K C,kcsrk@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,kcsrk@cse.iitm.ac.in,img/outerfaculty/kc.png,,Sivaramakrishnan K C,SSB 401,https://kcsrk.info/,(+91)-44-2257-4359,https://cse.iitm.ac.in/innerfaculty.php?fname=Sivaramakrishnan K C,"Building robust, secure and scalable systems using programming language technology",Systems and Networking,Assistant Professor,,,,,,,,,
+iitm,Sivaramakrishnan K C,https://cse.iitm.ac.in/innerfaculty.php?fname=Sivaramakrishnan K C,,,,,,,,,,,,,,Duration with CSE Dept : Jan 2019 to Dec 2022,"Co-Founder, Tarides - France",,img/outerfaculty/KCS.jpg,,Sivaramakrishnan K C,,http://kcsrk.info/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Sivaramakrishnan K C,"Programming models, Compilers, Static Analysis, Schedulers, Threading Systems, and Memory Management",,Former Faculty,,,,,,,,,
+iitm,Sreenivasa Kumar P,https://cse.iitm.ac.in/innerfaculty.php?fname=Sreenivasa Kumar P,psk@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,psk@cse.iitm.ac.in,img/outerfaculty/sreenivasa.png,AIDB Lab.,Sreenivasa Kumar P,SSB 215,https://cse.iitm.ac.in/~psk/,(+91)-44-2257-4366,https://cse.iitm.ac.in/innerfaculty.php?fname=Sreenivasa Kumar P,"Database systems, Semi-structured data and XML, Data mining, Graph algorithms, Parallel computing.",Systems and Networking,Professor,,,,,,,,,
+iitm,Srinivas Narayana,https://cse.iitm.ac.in/innerfaculty.php?fname=Srinivas Narayana,ngs@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,ngs@cse.iitm.ac.in,img/outerfaculty/ng.png,,Srinivas Narayana,SSB 204,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Srinivas Narayana,Networks and domain-specific compilers/formal methods,Systems and Networking,Assistant Professor,,,,,,,,,
+iitm,Sudha Natarajan,https://cse.iitm.ac.in/innerfaculty.php?fname=Sudha Natarajan,,,,,,,,,,,,,,Duration with CSE Dept : Mar 2003 to Mar 2006,"Assistant Professor, NTU Singapore",,img/outerfaculty/sudha.jpg,,Sudha Natarajan,,https://www.linkedin.com/in/sudha-natarajan-a5799815/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Sudha Natarajan,"VLSI Architectures for Signal Processing, Neural Networks, Computer Vision",,Former Faculty,,,,,,,,,
+iitm,Sukhendu Das,https://cse.iitm.ac.in/innerfaculty.php?fname=Sukhendu Das,sdas@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,sdas@cse.iitm.ac.in,img/outerfaculty/sukhendu.png,VP Lab.,Sukhendu Das,SSB 302,https://cse.iitm.ac.in/~sdas/,(+91)-44-2257-4367,https://cse.iitm.ac.in/innerfaculty.php?fname=Sukhendu Das,"Visual perception - Computer vision, digital image processing; pattern recognition; Graphics; Soft Computing; Computational brain modeling.",Artificial Intelligence and Machine Learning,Professor,,,,,,,,,
+iitm,Sundar R,https://cse.iitm.ac.in/innerfaculty.php?fname=Sundar R,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1987 to Sep 1999,Professor,,img/outerfaculty/RSundar.jpg,,Sundar R,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Sundar R,"Video-Streaming-Over-IR, System-on-Chip Architecture,Voice-over-Packet Systems, Embedded Systems Design, Digital Signal Processing, Speech Technologies, Digital Systems & VLSI Design",,Former Faculty,,,,,,,,,
+iitm,Sutanu Chakraborti,https://cse.iitm.ac.in/innerfaculty.php?fname=Sutanu Chakraborti,sutanuc@cse.iitm.ac.in,,,,,,,,,,,,,,Professor,sutanuc@cse.iitm.ac.in,img/outerfaculty/sutanu.png,AIDB Lab.,Sutanu Chakraborti,SSB 307,https://cse.iitm.ac.in/~sutanuc/,(+91)-44-2257-4376,https://cse.iitm.ac.in/innerfaculty.php?fname=Sutanu Chakraborti,"Information retrieval, Memory-based reasoning, Machine learning.",Artificial Intelligence and Machine Learning,Professor,,,,,,,,,
+iitm,Timothy A. Gonsalves,https://cse.iitm.ac.in/innerfaculty.php?fname=Timothy A. Gonsalves,,,,,,,,,,,,,,Duration with CSE Dept : Jul 1982 to Jun 2019,"Director, IIT Mandi",,img/outerfaculty/tag.jpg,,Timothy A. Gonsalves,,https://cse.iitm.ac.in/~tag/,,https://cse.iitm.ac.in/innerfaculty.php?fname=Timothy A. Gonsalves,"Computer networks, Distributed systems, Telecom software, Performance evaluation",,Former Faculty,,,,,,,,,
+iitm,Yadu Vasudev,https://cse.iitm.ac.in/innerfaculty.php?fname=Yadu Vasudev,yadu@cse.iitm.ac.in,,,,,,,,,,,,,,Assistant Professor,yadu@cse.iitm.ac.in,img/outerfaculty/yadu.png,"ACT Lab, RAnG, ToC.",Yadu Vasudev,SSB 207,https://yaduvasudev.github.io/,(+91)-44-2257-4386,https://cse.iitm.ac.in/innerfaculty.php?fname=Yadu Vasudev,"Algorithms, especially Sublinear Algorithms and Computational Complexity Theory",Theoretical Computer Science,Assistant Professor,,,,,,,,,
+iitm,Yegnanarayana B,https://cse.iitm.ac.in/innerfaculty.php?fname=Yegnanarayana B,,,,,,,,,,,,,,Duration with CSE Dept : Sep 1965 to Dec 2005,"Faculty, IIIT Hyderabad",,img/outerfaculty/BYegna.jpg,,Yegnanarayana B,,,,https://cse.iitm.ac.in/innerfaculty.php?fname=Yegnanarayana B,"Digital signal processing, Speech and vision, Voice input/output systems, Neural networks",,Former Faculty,,,,,,,,,
+oxford,yarin,https://oatml.cs.ox.ac.uk/members/yarin/,,,,,,,,,,,,,,,,,,,,,,,,,,,yarin@cs.ox.ac.uk,yarin,"Yarin Gal - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Yarin Gal
+Associate Professor
+Github
+Email
+Web
+Yarin leads the
+Oxford Applied and Theoretical Machine Learning (OATML)
+group. He is a
+Professor of Machine Learning
+at the Computer Science department, University of Oxford. He is also the
+Tutorial Fellow in Computer Science
+at Christ Church, Oxford, a
+Turing AI Fellow
+at the Turing Institute, and
+Expert Advisor
+to AISI, the UK Government’s AI Security Institute. He was formerly a
+Research Director
+for the Government’s Frontier AI Taskforce where he founded the Safeguards team.
+Prior to his move to Oxford he was a Research Fellow in Computer Science at
+St Catharine’s College
+at the University of Cambridge. He obtained his PhD from the Cambridge
+machine learning group
+, working with
+Prof Zoubin Ghahramani
+and funded by the
+Google Europe Doctoral Fellowship
+.
+Yarin made substantial contributions to early work in modern Bayesian deep learning—quantifying uncertainty in deep learning—and developed ML/AI tools that can inform their users when the tools are “guessing at random”. These tools have been deployed widely in industry and academia, with the tools used in medical applications, robotics, computer vision, astronomy, in the sciences, and by NASA.
+Beyond his academic work, Yarin works with industry on deploying robust ML tools safely and responsibly. He co-chairs the
+NASA FDL AI committee
+, and is an advisor with Japanese robotics company
+Preferred Networks
+, as well as numerous startups.
+The primary theme
+guiding his research is
+Pragmatic Approaches to Fundamental Research
+. This includes making use of principled approaches to develop new, practical, ML tools, and studying theoretical questions uncovered by real-world applications of ML.
+Fields Yarin has published work in include:
+Bayesian deep learning • deep learning • adversarial machine learning • causal inference • ML and security • quantisation and pruning • active learning • continual learning • approximate Bayesian inference • Gaussian processes • Bayesian modelling • Bayesian non-parametrics • scalable MCMC • generative modelling.
+With applications including:
+computer vision • medical analysis • astronomy • autonomous driving • finance • natural language processing • robotics • technical AI safety • ML interpretability • reinforcement learning • and others.
+A full list of publications is available
+here
+and
+here
+.
+",https://oatml.cs.ox.ac.uk/members/yarin/,,,,,
+oxford,yi_ren,https://oatml.cs.ox.ac.uk/members/yi_ren/,,,,,,,,,,,,,,,,,,,,,,,,,,,renyi.joshua@gmail.com,yi_ren,"Yi (Joshua) Ren - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Yi (Joshua) Ren
+Postdoc, started 2026
+Github
+Email
+Web
+Yi (Joshua) Ren is a postdoctoral researcher in the OATML Group at the University of Oxford, working under the supervision of Yarin Gal. His research takes a dynamics- and physics-inspired perspective on modern machine learning systems to understand how learning signals propagate through large neural networks and shape their representations and capabilities over time. He is particularly interested in modelling training as a dynamical system, where optimization induces forces, interactions, and constraints across different layers and features.
+More broadly, his interests span large-scale representation learning, continual and lifelong learning, and the foundations of robustness and alignment in LLM-based systems. By combining theoretical analysis, physical analogies, and empirical investigation, his work seeks to build a more principled understanding of how complex learning systems evolve, and how they can be controlled more reliably in practice.
+Before joining Oxford, Joshua completed his Ph.D. in Computer Science at the University of British Columbia in Canada, working on learning dynamics.
+",https://oatml.cs.ox.ac.uk/members/yi_ren/,,,,,
+oxford,hao_fei,https://oatml.cs.ox.ac.uk/members/hao_fei/,,,,,,,,,,,,,,,,,,,,,,,,,,,hao.fei@bdi.ox.ac.uk,hao_fei,"Hao Fei - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Hao Fei
+Postdoc, started 2026
+Github
+Email
+Web
+Hao is a postdoctoral researcher at the University of Oxford, dually working with Yarin Gal in the OATML Group and Chris Holmes in the Big Data Institute. His research focuses on the theme of Multimodal Learning with an emphasis on Generative Models, Multimodal Large Foundational Models, Agents, and World Modeling. He is particularly interested in exploring unified and advanced generalists towards human-level capacity and cognition for various scenarios and domains. Previously, he was a senior research fellow at the National University of Singapore, an associate researcher at Skywork AI Singapore, and SEA AI lab, respectively.
+",https://oatml.cs.ox.ac.uk/members/hao_fei/,,,,,
+oxford,yihong_chen,https://oatml.cs.ox.ac.uk/members/yihong_chen/,,,,,,,,,,,,,,,,,,,,,,,,,,,yihong.chen@cs.ox.ac.uk,yihong_chen,"Yihong Chen - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Yihong Chen
+Postdoc, started 2025
+Github
+Email
+Web
+Yihong Chen is a Postdoctoral Researcher in the Oxford Applied and Theoretical Machine Learning (OATML) group, working with Yarin Gal. Her research focuses on AI safety, with an emphasis on controllable and interpretable generative models, and understanding how knowledge is structured, abstracted, and modified in large language models.
+Prior to joining Oxford, Yihong completed her PhD in Computer Science at University College London through the FAIR–UCL PhD Programme. During her doctoral studies, she was also a PhD Student Researcher at Meta AI (FAIR). She received her early academic training in Electronic Engineering at Tsinghua University.
+",https://oatml.cs.ox.ac.uk/members/yihong_chen/,,,,,
+oxford,lin_li,https://oatml.cs.ox.ac.uk/members/lin_li/,,,,,,,,,,,,,,,,,,,,,,,,,,,lin.li@cs.ox.ac.uk,lin_li,"Lin Li - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Lin Li
+Postdoc, started 2025
+Github
+Email
+Web
+Lin is a postdoctoral researcher in the OATML Group at the University of Oxford, working under the supervision of Yarin Gal. His research focuses on AI Safety, including topics such as hallucination, jailbreaking, safety alignment, and adversarial machine learning. He is also interested in LLM-based agents, particularly in areas like autonomous complex decision-making and the simulation of human behaviour and societal dynamics. Beyond foundational research, Lin explores the application of machine learning to real-world challenges in domains such as healthcare, robotics, and economics.
+Before joining Oxford, Lin completed his Ph.D. in Machine Learning from King’s College London, where his research centred on enhancing the robustness of machine learning models. He also interned at Tencent’s Robotics X Lab, where he worked on enabling robots to learn throwing and catching skills from human demonstrations.
+",https://oatml.cs.ox.ac.uk/members/lin_li/,,,,,
+oxford,zihuiwen_ye,https://oatml.cs.ox.ac.uk/members/zihuiwen_ye/,,,,,,,,,,,,,,,,,,,,,,,,,,,zihuiwen.ye@cs.ox.ac.uk,zihuiwen_ye,"Daniella (Zihuiwen) Ye - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Daniella (Zihuiwen) Ye
+Postdoc, started 2024
+Github
+Email
+Daniella (Zihuiwen) Ye is a DPhil alumna in Computer Science at the University of Oxford, supervised by Yarin Gal and Phil Blunsom. Her research interests lie in enhancing the reliability and robustness of Large Language Models (LLMs) for real-world applications, with a particular focus on text generation. She is also interested in exploring methods of controlled generation of language models, employing statistical and linguistic approaches.
+Some of the topics she has researched in previous years include improving human preference learning for LLMs with synthetic critiques, a project she undertook during her internship at Cohere. She has also explored augmenting text-to-code generation processes through self-play, and applying diffusion models for non-autoregressive text planning. She is a recipient of the DeepMind scholarship.
+",https://oatml.cs.ox.ac.uk/members/zihuiwen_ye/,,,,,
+oxford,anushka_nair,https://oatml.cs.ox.ac.uk/members/anushka_nair/,,,,,,,,,,,,,,,,,,,,,,,,,,,anushka.nair@balliol.ox.ac.uk,anushka_nair,"Anushka Nair - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Anushka Nair
+PhD, started 2025
+Github
+Email
+Anushka is a DPhil student in the OATML Group at the University of Oxford, under the co-supervision of Yarin Gal and Sir Nigel Shadbolt.
+Her research interests broadly span the development of AI systems capable of robust reasoning and generalization across diverse real world contexts. She is particularly interested in how advances in reasoning and decision-making can enable AI agents to act more beneficially in high impact domains.
+Before joining Oxford, Anushka completed a Master of Engineering and Bachelors of Science in Computer Science from the Massachusetts Institute of Technology. Her previous work includes improving large language models’ abilities to identify nuanced misinformation under Professor David Rand at MIT, helping launch the United Nations Secretary-General’s High-Level Advisory Body on AI (HLAB-AI), and building energy products at Tesla. She is funded by the Rhodes Scholarship.
+",https://oatml.cs.ox.ac.uk/members/anushka_nair/,,,,,
+oxford,yoav_gelberg,https://oatml.cs.ox.ac.uk/members/yoav_gelberg/,,,,,,,,,,,,,,,,,,,,,,,,,,,“yoav@robots.ox.ac.uk”,yoav_gelberg,"Yoav Gelberg - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Yoav Gelberg
+PhD, started 2024
+Github
+Email
+Web
+Yoav is a PhD student at the University of Oxford, co-advised by Yarin Gal, Michael Bronstein, and Haggai Maron. His research focuses on the symmetry and structure of neural network parameter spaces, with the goal of performing meta-learning tasks over model weights. He holds an undergraduate degree in mathematics from the Technion, where he was a Rothschild scholar. Before joining Oxford, Yoav conducted research on expander graphs at the Weizmann Institute, developed fair learning algorithms at Fairgen, and taught math and programming at the
+ARDC
+. His PhD is funded by the EPSRC through the
+AIMS CDT program
+.
+",https://oatml.cs.ox.ac.uk/members/yoav_gelberg/,,,,,
+oxford,xander_davies,https://oatml.cs.ox.ac.uk/members/xander_davies/,,,,,,,,,,,,,,,,,,,,,,,,,,,alexander.davies@wolfson.ox.ac.uk,xander_davies,"Xander Davies - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Xander Davies
+PhD, started 2024
+Github
+Email
+Xander is a PhD student in the OATML group, co-supervised by Yarin Gal and
+Sadie Creese
+. Xander was on the founding team of the
+UK AI Safety Institute
+, where he founded and led the adversarial ML team (Safeguards Analysis), performing adversarial testing on a range of frontier AI systems on behalf of the UK government. Xander’s main research interests are attacking and understanding safeguards of frontier AI systems. Previously, Xander studied Computer Science at Harvard, where he founded the Harvard AI Safety Team.
+",https://oatml.cs.ox.ac.uk/members/xander_davies/,,,,,
+oxford,yonatan_gideoni,https://oatml.cs.ox.ac.uk/members/yonatan_gideoni/,,,,,,,,,,,,,,,,,,,,,,,,,,,yg@robots.ox.ac.uk,yonatan_gideoni,"Yonatan Gideoni - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Yonatan Gideoni
+PhD, started 2023
+Email
+Web
+Yonatan is a DPhil student in the AIMS CDT, advised by Yarin Gal. He is interested in developing fundamental AI methods to help understand human behaviour. He holds a master’s from Cambridge and a bachelor’s in physics from the Hebrew University of Jerusalem. Previously, Yonatan worked on machine learning for quantum computing at Qruise and Forschungszentrum Jülich, maps for autonomous vehicles at Mobileye, and as a teacher at the Israeli Arts and Sciences Academy. Before that, he was involved in mentoring and volunteering for robotics teams, qualifying for several international competitions. He is funded by the AIMS CDT and a Rhodes scholarship.
+",https://oatml.cs.ox.ac.uk/members/yonatan_gideoni/,,,,,
+oxford,matthew_kearney,https://oatml.cs.ox.ac.uk/members/matthew_kearney/,,,,,,,,,,,,,,,,,,,,,,,,,,,Matthew.kearney@cs.ox.ac.uk,matthew_kearney,"Matthew Kearney - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Matthew Kearney
+PhD, started 2023
+Github
+Email
+Matt is a Computer Science DPhil candidate and is co-supervised by Yarin Gal and Reuben Binns. He studies AI Ethics broadly with a focus on 
+how philosophical approaches can inform the creation and use of model interpretability tools for fairer outcomes. He is particularly interested 
+in cross-disciplinary research that focuses on understanding and mitigating the ethical problems posed by AI in various applications. He is funded 
+by a Rhodes Scholarship. Matt previously completed a Master of Engineering in Computer Science, a BSc in Computer Science, and a BSc in Philosophy from MIT.
+",https://oatml.cs.ox.ac.uk/members/matthew_kearney/,,,,,
+oxford,luckeciano_carvalho_melo,https://oatml.cs.ox.ac.uk/members/luckeciano_carvalho_melo/,,,,,,,,,,,,,,,,,,,,,,,,,,,luckeciano.carvalho.melo@cs.ox.ac.uk,luckeciano_carvalho_melo,"Luckeciano Carvalho Melo - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Luckeciano Carvalho Melo
+PhD, started 2023
+Github
+Email
+Web
+Luckeciano is a DPhil student in the OATML group, supervised by Yarin Gal and Alessandro Abate. His research interests lie in designing agents that learn behaviors through interactions in an efficient, generalist, safe, 
+and adaptive way. He believes that such agents emerge from three main pillars: semantically rich representations of entities 
+in the world; self-supervised World Models with inductive biases for memory and counterfactual reasoning; and fast policy 
+adaptation mechanisms for out-of-distribution generalization.
+Previously, he worked as an Applied Scientist at Microsoft, working with multi-modal representation learning and large language 
+models for web data semantic understanding. He also led the RL Research group at the Center of Excellence in AI in Brazil, 
+working with real-world RL applications in scalable digital platforms with industry partners.
+",https://oatml.cs.ox.ac.uk/members/luckeciano_carvalho_melo/,,,,,
+oxford,shreshth_malik,https://oatml.cs.ox.ac.uk/members/shreshth_malik/,,,,,,,,,,,,,,,,,,,,,,,,,,,shreshth@robots.ox.ac.uk,shreshth_malik,"Shreshth Malik - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Shreshth Malik
+PhD, started 2021
+Github
+Email
+Web
+Shreshth is a DPhil student in the OATML group, supervised by Yarin Gal and
+Stephen Roberts
+, and is a member of the
+AIMS CDT
+. His main research interests are problems that limit ML systems to be taken out of the lab and used with confidence in the real world, motivated by applications in the sciences. This includes topics such as incorporating physical inductive biases into neural networks, data-efficient learning, and differentiable simulations. He was recently a PhD researcher on the
+NASA FDL-X
+program. He also is interested in mitigating short/long term AI risk, collaborating with the
+causal incentives
+working group.
+Previously, he has worked on understanding the challenges of using deep active learning in practice with
+Humanloop
+and
+David Barber
+, and predicting the outcomes of material syntheses with
+Alpha Lee
+. He holds Master’s degrees in Machine Learning (UCL) and Physical Natural Sciences (University of Cambridge). Outside of research, he’s worked in venture capital, management consulting, and with a range of tech startups.
+",https://oatml.cs.ox.ac.uk/members/shreshth_malik/,,,,,
+oxford,ruben_weitzman,https://oatml.cs.ox.ac.uk/members/ruben_weitzman/,,,,,,,,,,,,,,,,,,,,,,,,,,,ruben.weitzman@kellogg.ox.ac.uk,ruben_weitzman,"Ruben Weitzman - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Ruben Weitzman
+PhD, started 2021
+Email
+Ruben
+is a DPhil candidate with the
+Health Data Science CDT
+, and is co-supervised by Yarin Gal and
+Debora Marks
+. He is interested in studying gene regulation at different scales and multi-disciplinary projects at the interface between machine learning and bioinformatics. He is funded by an EPSRC and Kellogg Scholarship. 
+Ruben previously completed an MPhil in Computational Biology at the University of Cambridge, and a BE in Bioengineering and Biomedical Engineering at Imperial College London.
+",https://oatml.cs.ox.ac.uk/members/ruben_weitzman/,,,,,
+oxford,muhammed_razzak,https://oatml.cs.ox.ac.uk/members/muhammed_razzak/,,,,,,,,,,,,,,,,,,,,,,,,,,,muhammed.razzak@cs.ox.ac.uk,muhammed_razzak,"Muhammed Razzak - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Muhammed Razzak
+PhD, started 2020
+Github
+Email
+Web
+Muhammed is reading for DPhil in Computer Science, supervised by Yarin Gal. He is interested in developing robust machine learning systems that would enable applications in heterogenous resource-constrained environments.
+Previously, he was a Research Intern at
+Mila
+, working with
+Kris Sankaran
+and
+Yoshua Bengio
+, and an Assistant Lecturer in the Department of Mechanical Engineering at the University of Cape Town. He completed his previous studies in the Department of Electrical Engineering at the University of Cape Town, working with
+Fred Nicolls
+. He is a
+Rhodes Scholar
+.
+",https://oatml.cs.ox.ac.uk/members/muhammed_razzak/,,,,,
+oxford,diana_verley,https://oatml.cs.ox.ac.uk/members/diana_verley/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml-pm@cs.ox.ac.uk,diana_verley,"Diana Verley - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Diana Verley
+Associate Member (Program Manager), started 2025
+Email
+Diana is the Project Support Officer for OATML and assists with operational tasks. She joined the University of Oxford in 2021 as a Personal Assistant and Research Administrator and works for both the Department of Computer Science and the Department of Psychiatry.
+",https://oatml.cs.ox.ac.uk/members/diana_verley/,,,,,
+oxford,gabriel_jones,https://oatml.cs.ox.ac.uk/members/gabriel_jones/,,,,,,,,,,,,,,,,,,,,,,,,,,,gabriel.jones@queens.ox.ac.uk,gabriel_jones,"Gabriel Jones - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Gabriel Jones
+Associate Member (Faculty), started 2020
+Github
+Email
+Gabriel is the PI of the Oxford Digital Health Labs group at Nuffield Department of Women’s and Reproductive Health (NDWRH), Director of AI and Big Data Analytics at the Oxford Centre for Global Epilepsy, Co-Director and Oxford Martin Senior Research Fellow
+at the Nuffield Department of Clinical Neuroscience, and Clinical Research Fellow at the Royal Women’s Hospital in Melbourne, Australia. His research is centered on the practical development and application of machine learning in medicine, with a particular emphasis on global health. 
+He is also an OATML alumni. He received his PhD supervised by Manu Vatish and Chris Redman, co-supervised by Yarin Gal. He obtained his Bachelors and Honours degrees from the University of Melbourne before completing a Doctor of Medicine (MD).
+",https://oatml.cs.ox.ac.uk/members/gabriel_jones/,,,,,
+oxford,augusto_correa,https://oatml.cs.ox.ac.uk/members/augusto_correa/,,,,,,,,,,,,,,,,,,,,,,,,,,,augusto.blaascorrea@chch.ox.ac.uk,augusto_correa,"Augusto B. Corrêa - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Augusto B. Corrêa
+Associate Member (Senior Research Fellow), started 2025
+Github
+Email
+Web
+Augusto is a Junior Research Fellow at Christ Church, Oxford. His main research interest is automated planning, with a current focus on improving the planning capabilities of large language models. Much of his earlier work explored how to plan using different representations. During his PhD at the University of Basel, Augusto also explored other topics, including zero-knowledge proofs and computational complexity.
+",https://oatml.cs.ox.ac.uk/members/augusto_correa/,,,,,
+oxford,ilia_shumailov,https://oatml.cs.ox.ac.uk/members/ilia_shumailov/,,,,,,,,,,,,,,,,,,,,,,,,,,,ilia.shumailov@chch.ox.ac.uk,ilia_shumailov,"Ilia Shumailov - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Ilia Shumailov
+Associate Member (Senior Research Fellow), started 2022
+Github
+Email
+Web
+Ilia is a Research Scientist at Google DeepMind. His interests lie in ML and Computer Security. Prior to DeepMind, Ilia was a Junior Research Fellow at Christ Church and a Fellow of the
+Vector Institute
+. He completed his PhD at the University of Cambridge.
+",https://oatml.cs.ox.ac.uk/members/ilia_shumailov/,,,,,
+oxford,pascal_notin,https://oatml.cs.ox.ac.uk/members/pascal_notin/,,,,,,,,,,,,,,,,,,,,,,,,,,,pascal_notin@hms.harvard.edu,pascal_notin,"Pascal Notin - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Pascal Notin
+Associate Member (Senior Research Fellow), started 2019
+Github
+Email
+Web
+Pascal is a Scientific Lead in the
+Marks lab
+at
+Harvard Medical school
+, where he leads the unit focusing on protein engineering. He is passionate about the use of machine learning models to design novel biomolecules to address challenges in healthcare and sustainability.
+His research lies at the intersection of generative AI, computational biology and chemistry. He was a PhD student in the
+Oxford Applied and Theoretical Machine Learning Group
+, part of the
+CS Department
+at the
+University of Oxford
+, under the supervision of
+Yarin Gal
+. During his time at Oxford, he developed large-scale protein language models for fitness prediction and design (
+1
+2
+3
+4
+), and deep generative models to predict the impact of genetic mutations in humans (
+5
+) or viral mutations likely to escape immunity (
+6
+).
+Before Oxford, he was a Senior Manager at
+McKinsey & Company
+in New York and Paris, where he was leading cross-disciplinary teams on high-impact analytics projects. He holds an M.S. in Operations Research from
+Columbia University
+and a B.S. and M.S. in Applied Mathematics and Physics from
+Ecole Polytechnique
+.
+Combining rigorous academic training with practical industry experience, Pascal is now focused on driving innovations in bioengineering, resolutely committed to creating a healthier and more sustainable future.
+",https://oatml.cs.ox.ac.uk/members/pascal_notin/,,,,,
+oxford,panagiotis_tigas,https://oatml.cs.ox.ac.uk/members/panagiotis_tigas/,,,,,,,,,,,,,,,,,,,,,,,,,,,ptigas@robots.ox.ac.uk,panagiotis_tigas,"Panagiotis Tigas - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Panagiotis Tigas
+Associate Member (Senior Research Fellow), started 2018
+Github
+Email
+Web
+Panos was a DPhil student in the OATML group in the Department of Computer Science at the University of Oxford, supervised by
+Yarin Gal
+.From 2023 to 2025, he was a Research Scientist at Isomorphic Labs, working on AI systems for drug discovery and molecular design. He finished his PhD working on AI for science, focusing on Bayesian experimental design, causality, and machine learning systems for guiding laboratory experimentation. Before his PhD, he worked as an ML engineer at Microsoft, Autodesk Research, and Brave Research, spanning a broad spectrum of applied machine learning—from information retrieval and privacy-preserving ML to generative design tools for engineers and scientists. He is broadly interested in building AI systems that accelerate scientific progress, especially in settings where experiments are expensive, data are scarce, and causal understanding matters.
+",https://oatml.cs.ox.ac.uk/members/panagiotis_tigas/,,,,,
+oxford,sergio_calvoordonez,https://oatml.cs.ox.ac.uk/members/sergio_calvoordonez/,,,,,,,,,,,,,,,,,,,,,,,,,,,sergio.calvoordonez@maths.ox.ac.uk,sergio_calvoordonez,"Sergio Calvo Ordoñez - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Sergio Calvo Ordoñez
+Associate Member (PhD), started 2025
+Github
+Email
+Web
+Sergio is a DPhil student in the
+Random Systems CDT
+at the University of Oxford, co-supervised by
+Álvaro Cartea
+, Yarin Gal, and
+José Miguel Hernández-Lobato
+(University of Cambridge). His research interests lie broadly in Probabilistic Machine Learning. In particular, he studies the connections between Gaussian Processes and Deep Learning, and explores advances in Generative Modelling (particularly LLMs, diffusion models, and flow matching). His work has two main aims: to develop theoretically grounded and efficient techniques for quantifying model uncertainty, and to design methods that accelerate training and/or inference in state-of-the-art generative models.
+Before arriving in Oxford, Sergio completed the
+MPhil in Machine Learning and Machine Intelligence
+at the University of Cambridge and earned a BSc in Theoretical Physics from QMUL. He has prior industry experience in both quantitative finance and big tech. As a Research Scientist Intern at Spotify, he worked at the intersection of Gaussian Processes and Deep Learning theory. Later, as a Quant Research Intern at a hedge fund, he developed an LLM-based systematic trading strategy. He is funded by the Man Group through the Oxford-Man Institute Scholarship.
+",https://oatml.cs.ox.ac.uk/members/sergio_calvoordonez/,,,,,
+oxford,suhaas_bhat,https://oatml.cs.ox.ac.uk/members/suhaas_bhat/,,,,,,,,,,,,,,,,,,,,,,,,,,,“suhaas.bhat@worc.ox.ac.uk”,suhaas_bhat,"Suhaas Bhat - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Suhaas Bhat
+Associate Member (PhD), started 2024
+Github
+Email
+Suhaas Bhat is pursuing a DPhil in Theoretical Physics, supervised by Ard Louis and Yarin Gal. He is interested in the interface between physics, biology, and machine learning, and applying insights from these fields to medicine. Previously, he worked on machine learning applied to peptide drug design with Pranam Chatterjee, at the Church Lab at Harvard and the Chatterjee Lab at Duke. He has also worked on small molecule binding prediction at DE Shaw Research, and machine learning for automated DRAM verification at Normal Computing.
+Suhaas holds an AB in Social Studies and Physics from Harvard, and wrote his undergraduate thesis on the ethics and viability of automating psychotherapy. He is funded by a Rhodes scholarship.
+",https://oatml.cs.ox.ac.uk/members/suhaas_bhat/,,,,,
+oxford,hazel_kim,https://oatml.cs.ox.ac.uk/members/hazel_kim/,,,,,,,,,,,,,,,,,,,,,,,,,,,hazel.kim@cs.ox.ac.uk,hazel_kim,"Hazel Kim - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Hazel Kim
+Associate Member (PhD), started 2023
+Github
+Email
+Web
+Hazel is a DPhil student in Computer Science at the University of Oxford, supervised by Philip Torr and Yarin Gal. 
+She is also a student of the ELLIS Society and has Yonatan Belinkov from Technion as a co-advisor. 
+Her research interest is interpretability and controllability in language models, applying statistical concepts or linguistic approaches.
+Previously, she studied deep learning with limited data using linguistic compositionality in the Department of Artificial Intelligence at Yonsei University. She then researched machine rationales and reasoning at NAVER AI Lab and Classting AI Research. She is a recipient of the Jung M. Foundation fellowship.
+",https://oatml.cs.ox.ac.uk/members/hazel_kim/,,,,,
+oxford,freddie_bickford_smith,https://oatml.cs.ox.ac.uk/members/freddie_bickford_smith/,,,,,,,,,,,,,,,,,,,,,,,,,,,freddie@robots.ox.ac.uk,freddie_bickford_smith,"Freddie Bickford Smith - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Freddie Bickford Smith
+Associate Member (PhD), started 2020
+Github
+Email
+Web
+Freddie is a DPhil student working with
+Tom Rainforth
+and
+Adam Foster
+.
+His research focuses on uncertainty and intelligent data acquisition in machine learning.
+Before his DPhil he worked with
+Brad Love
+,
+Brett Roads
+and
+Ed Grefenstette
+on understanding neural networks from a cognitive-science perspective.
+He has degrees in machine learning (UCL) and mechanical engineering (Bristol).
+",https://oatml.cs.ox.ac.uk/members/freddie_bickford_smith/,,,,,
+oxford,katrina_dickson,https://oatml.cs.ox.ac.uk/members/katrina_dickson/,,,,,,,,,,,,,,,,,,,,,,,,,,,katrina.dickson@cs.ox.ac.uk,katrina_dickson,"Katrina Dickson - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Katrina Dickson
+Associate Member (Program Manager) (2023—2026)
+Github
+Email
+Katrina was the Program Manager for OATML where she was responsible for operational tasks on behalf of the group. Previously, Katrina had spent 15 years in Apple’s Software Engineering Operations organization as a Senior Manager leading teams focused on localization and program management.
+",https://oatml.cs.ox.ac.uk/members/katrina_dickson/,,,,,
+oxford,tom_rainforth,https://oatml.cs.ox.ac.uk/members/tom_rainforth/,,,,,,,,,,,,,,,,,,,,,,,,,,,rainforth@stats.ox.ac.uk,tom_rainforth,"Tom Rainforth - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Tom Rainforth
+Associate Member (Faculty) (2019—2025)
+Github
+Email
+Web
+Tom is a machine learning researcher and faculty member of the Department of Statistics where he runs is own group of around 10 D.Phil students and teaches a course on Advanced Statistical Machine Learning.  His research covers a wide range of topics across probabilistic machine learning, such as deep generative models, probabilistic programming, Monte Carlo methods, variational inference, and experimental design.  He is an associate member of the OATML group, with whom he maintains a number of ongoing collaborations and co-supervision of students.
+",https://oatml.cs.ox.ac.uk/members/tom_rainforth/,,,,,
+oxford,Tiarnan_Doherty,https://oatml.cs.ox.ac.uk/members/Tiarnan_Doherty/,,,,,,,,,,,,,,,,,,,,,,,,,,,td404@cam.ac.uk,Tiarnan_Doherty,"Tiarnan Doherty - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Tiarnan Doherty
+Postdoc (2022—2025)
+Email
+Web
+Tiarnan is a
+Schmidt Science Fellow
+at the
+Electron Microscopy Group
+, University of Cambridge with
+Paul Midgely
+, and was an academic visitor at OATML as part of his fellowship.
+Tiarnan completed his PhD in Physics at the University of Cambridge.His PhD involved understanding the fundamental properties of metal halide perovskites, a revolutionary new technology for inexpensive, scalable, and highly efficient solar panels. 
+As a Schmidt Science Fellow, he will pivot from materials science to computer science, with an ambition to develop new AI approaches that will greatly accelerate the discovery and development of materials for applications in energy, healthcare, and computing.
+Tiarnan was an [Oppenheimer Research Fellow] and an [Early Career Research Fellow at Murray Edwards College].
+",https://oatml.cs.ox.ac.uk/members/Tiarnan_Doherty/,,,,,
+oxford,sebastian_farquhar,https://oatml.cs.ox.ac.uk/members/sebastian_farquhar/,,,,,,,,,,,,,,,,,,,,,,,,,,,sebastian.farquhar@balliol.ox.ac.uk,sebastian_farquhar,"Sebastian Farquhar - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Sebastian Farquhar
+Associate Member (Senior Research Fellow) (2017—2025)
+Github
+Email
+Web
+Since 2022, Seb works as a research scientist at DeepMind’s safety team.
+He continues to work with OATML, co-supervising students with Yarin.
+Seb was a Junior Research Fellow in Computer Science at Christ Church, University of Oxford, an independent career-development research post.
+He finished his DPhil supervised by Yarin Gal and part of the
+Centre for Doctoral Training in Cyber Security
+.
+He is interested in understanding the role of approximation in Bayesian deep learning, and applications in medium- and long-term AI safety.
+Before joining the research group, he worked in
+technology policy
+(including biosafety and AI policy),
+social-entrepreneurship
+, and
+strategy consulting
+. He has been working on startups in the effective altruism community since 2012. He has a Masters degree in Physics and Philosophy from the University of Oxford.
+",https://oatml.cs.ox.ac.uk/members/sebastian_farquhar/,,,,,
+oxford,lisa_schut,https://oatml.cs.ox.ac.uk/members/lisa_schut/,,,,,,,,,,,,,,,,,,,,,,,,,,,schut@robots.ox.ac.uk,lisa_schut,"Lisa Schut - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Lisa Schut
+PhD (2020—2025)
+Github
+Email
+Web
+Lisa Schut is an OATML alumna. She completed her PhD in the group, supervised by Yarin Gal. Her main interests are centered around making machine learning algorithms more robust and interpretable. Lisa holds two master’s degrees, in Statistics and Computer Science, from the University of Oxford. Lisa visited the CoCoSci lab, led by prof. Griffiths, and has spent time interning at Google Brain, with Been Kim and DeepMind, with Ulrich Paquet. Previously, Lisa was a member of the Dutch women’s Olympic chess team. Lisa is jointly funded by the EPSRC and DeepMind.
+",https://oatml.cs.ox.ac.uk/members/lisa_schut/,,,,,
+oxford,lukas_aichberger,https://oatml.cs.ox.ac.uk/members/lukas_aichberger/,,,,,,,,,,,,,,,,,,,,,,,,,,,“lukas.aichberger@gmail.com”,lukas_aichberger,"Lukas Aichberger - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Lukas Aichberger
+Associate Member (PhD) (2024—2025)
+Github
+Email
+Web
+Lukas is a PhD student at the renowned
+ELLIS society
+, co-supervised by
+Sepp Hochreiter
+at Johannes Kepler University Linz and Yarin Gal at the University of Oxford. He was a visiting PhD student in the OATML lab.
+His research focuses on safety, robustness, and trustworthiness in machine learning, with a particular emphasis on improving uncertainty quantification. On the theoretical side, his work has provided new insights into
+information-theoretic measures of predictive uncertainty
+. On the applied side, Lukas has developed
+QUAM
+, a method for improving uncertainty estimation in classification models, as well as
+SDLG
+and
+G-NLL
+, which enhance the reliability and efficiency of uncertainty estimation in language models. Recently, he has also investigated the robustness of multimodal OS agents, uncovering critical safety vulnerabilities by attacking them with malicious image patches.
+Lukas holds an undergraduate degree from Vienna University of Economics and Business and a graduate degree in Artificial Intelligence from Johannes Kepler University Linz. Outside academia, he has gained extensive experience in consulting, industry and startups
+",https://oatml.cs.ox.ac.uk/members/lukas_aichberger/,,,,,
+oxford,kunal_handa,https://oatml.cs.ox.ac.uk/members/kunal_handa/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml@cs.ox.ac.uk,kunal_handa,"Kunal Handa - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Kunal Handa
+MSc by Research (2023—2025)
+Github
+Web
+Kunal is an OATML alumni. He was an MSc by Research student under the supervision of
+Yarin Gal
+and
+Sebastian Farquhar
+. 
+He is interested in the safe and robust deployment of foundation models in real-world scenarios, rooted in the understanding of human cognition and value systems.
+Previously, Kunal worked on task ambiguity in humans and language models with Noah Goodman in the
+Stanford Computation and Cognition Lab
+and on the emergence of grounded representations in reinforcement learning via sequence modeling with Ellie Pavlick in the
+Brown LUNAR Lab
+. 
+He is also interested in the application of language models in educational contexts, which he explored with Dora Demszky in the
+Stanford NLP Group
+. 
+Kunal completed his undergraduate education in computer science and linguistics at Brown University.
+",https://oatml.cs.ox.ac.uk/members/kunal_handa/,,,,,
+oxford,kelsey_doerksen,https://oatml.cs.ox.ac.uk/members/kelsey_doerksen/,,,,,,,,,,,,,,,,,,,,,,,,,,,kelsey.doerksen@eng.ox.ac.uk,kelsey_doerksen,"Kelsey Doerksen - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Kelsey Doerksen
+PhD (2021—2025)
+Github
+Email
+Web
+Kelsey is an alumna of the OATML group, where she was part of the Autonomous Intelligent Machines and Systems (AIMS) program, supervised by Yarin Gal and Freddie Kalaitzis. Previously, she was a Space Systems Engineer and Satellite operator at Planet. Her main interests are applying machine learning to remote sensing and Earth Observation datasets to quantify the impacts of climate change, and developing algorithms for onboard processing on satellites. Kelsey holds a Masters degree in Electrical and Computer Engineering from the University of Western Ontario and a Bachelor’s degree in Aerospace Engineering, Space Systems Design from Carleton university. Kelsey is jointly funded by a Studentship from Satellite Applications Catapult and Deimos Space, and the Oxford-Singapore Human-Machine Collaboration Programme.
+",https://oatml.cs.ox.ac.uk/members/kelsey_doerksen/,,,,,
+oxford,gunshi_gupta,https://oatml.cs.ox.ac.uk/members/gunshi_gupta/,,,,,,,,,,,,,,,,,,,,,,,,,,,gunshi.gupta@eng.ox.ac.uk,gunshi_gupta,"Gunshi Gupta - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Gunshi Gupta
+PhD (2021—2025)
+Github
+Email
+Web
+Gunshi Gupta is an alumna of the OATML group, where she was supervised by Prof. Yarin Gal. She is interested in problems related to probabilistic and causally-correct learning from data, with a focus on robotics tasks. She grew up in New Delhi, India where she got her applied-math engineering degree from DTU. After dabbling in software engineering and robotics research, she went on to study machine learning at Mila supervised by Prof. Liam Paull. Her master’s research was on the topics of bayesian deep-learning, meta learning and continual learning. Before joining AIMS CDT, she worked at the autonomous driving startup Wayve that aims to solve the self-driving problem using end-to-end deep learning.
+",https://oatml.cs.ox.ac.uk/members/gunshi_gupta/,,,,,
+oxford,tim_rudner,https://oatml.cs.ox.ac.uk/members/tim_rudner/,,,,,,,,,,,,,,,,,,,,,,,,,,,tim.rudner@cs.ox.ac.uk,tim_rudner,"Tim G. J. Rudner - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Tim G. J. Rudner
+PhD (2017—2024)
+Github
+Email
+Web
+Tim was co-supervised by
+Yarin Gal
+and
+Yee Whye Teh
+. His research interests span variational inference, reinforcement learning, Bayesian deep learning, and AI safety. Tim obtained a master’s degree in statistics from the
+University of Oxford
+and an undergraduate degree in mathematics and economics from
+Yale University
+, where he received the Charles E. Clark Memorial Award for Academic Excellence. During his DPhil, Tim was a Visiting Fellow at the University of California, Berkeley and Yale University. He is also an AI Fellow at Georgetown University’s
+Center for Security and Emerging Technology
+, a Fellow of the
+German Academic Scholarship Foundation
+, recipient of the
+Qualcomm Innovation Fellowship
+, and a
+Rhodes Scholar
+.
+",https://oatml.cs.ox.ac.uk/members/tim_rudner/,,,,,
+oxford,tuan_nguyen,https://oatml.cs.ox.ac.uk/members/tuan_nguyen/,,,,,,,,,,,,,,,,,,,,,,,,,,,tuan.nguyen@cs.ox.ac.uk,tuan_nguyen,"Tuan Nguyen - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Tuan Nguyen
+Associate Member (PhD) (2020—2024)
+Github
+Email
+Web
+Tuan Nguyen was a DPhil student in the CS Department at Oxford University, supervised by Dr. Gunes Baydin and co-supervised by Prof. Yarin Gal. His research interests include Bayesian Deep Learning, Efficient Inference, Representation Learning, and Interpretable Machine Learning. Before joining Oxford, he received his MSc in Computer Science from Korea Advanced Institute of Science and Technology.
+",https://oatml.cs.ox.ac.uk/members/tuan_nguyen/,,,,,
+oxford,lorenz_kuhn,https://oatml.cs.ox.ac.uk/members/lorenz_kuhn/,,,,,,,,,,,,,,,,,,,,,,,,,,,lorenz.kuhn@cs.ox.ac.uk,lorenz_kuhn,"Lorenz Kuhn - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Lorenz Kuhn
+PhD (2021—2024)
+Github
+Email
+Web
+Lorenz was a DPhil student in Computer Science working with Prof. Yarin Gal at the University of Oxford. His main research interests include improving our theoretical understanding of deep learning, as well as making deep learning safer and more reliable for real-world use cases. Lorenz is a recipient of a FHI DPhil Scholarship and holds a MSc in Computer Science from ETH Zurich.
+Previously, Lorenz has undertaken research on pruning and generalization in deep neural networks under the supervision of Prof. Yarin Gal and Prof. Andreas Krause, on medical recommendation systems with Prof. Ce Zhang, and on medical information retrieval with Prof. Carsten Eickhoff and Prof. Thomas Hofmann.
+Additionally, Lorenz has worked on making very large language models more efficient at Cohere, on various data science projects at the Boston Consulting Group, and on medical recommendation systems at IBM Research and ETH Zurich.
+",https://oatml.cs.ox.ac.uk/members/lorenz_kuhn/,,,,,
+oxford,jishnu_mukhoti,https://oatml.cs.ox.ac.uk/members/jishnu_mukhoti/,,,,,,,,,,,,,,,,,,,,,,,,,,,jishnu.mukhoti@wolfson.ox.ac.uk,jishnu_mukhoti,"Jishnu Mukhoti - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Jishnu Mukhoti
+Associate Member (PhD) (2019—2024)
+Github
+Email
+Web
+Jishnu was a DPhil (PhD) student at the University of Oxford working with
+Philip Torr
+and
+Yarin Gal
+. He is interested in ways by which approximate Bayesian inference can be performed in a scalable, light-weight manner in deep neural networks. He previously worked at Amazon as a Software Developer and also did his MSc in Computer Science at Oxford.
+",https://oatml.cs.ox.ac.uk/members/jishnu_mukhoti/,,,,,
+oxford,jannik_kossen,https://oatml.cs.ox.ac.uk/members/jannik_kossen/,,,,,,,,,,,,,,,,,,,,,,,,,,,jannik.kossen@cs.ox.ac.uk,jannik_kossen,"Jannik Kossen - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Jannik Kossen
+PhD (2020—2024)
+Github
+Email
+Web
+Jannik was co-supervised by
+Yarin Gal
+in
+OATML
+and
+Tom Rainforth
+in
+RainML
+@
+OxCSML
+.
+He works on uncertainties and data-efficiency in vision and language models.
+Jannik received an MSc in Physics from Heidelberg University and has spent time studying in Bremen,
+Darmstadt
+, Padova, and at University College London.
+He was a Research Scientist Intern at DeepMind and a Student Researcher at Google.
+",https://oatml.cs.ox.ac.uk/members/jannik_kossen/,,,,,
+oxford,jan_brauner,https://oatml.cs.ox.ac.uk/members/jan_brauner/,,,,,,,,,,,,,,,,,,,,,,,,,,,Jan.Brauner@cs.ox.ac.uk,jan_brauner,"Jan Brauner - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Jan Brauner
+PhD (2019—2024)
+Email
+Jan obtained his PhD in the Centre for Doctoral Training on Intelligent and Autonomous Machines and Systems (AIMS CDT), supervised by
+Yarin Gal
+, and funded by
+Cancer Research UK
+and the
+FHI DPhil Scholars program
+. His current research interests include AI safety (e.g. interpretability of machine learning algorithms), applications of AI in medicine/biomedical research, and infectious disease modelling.
+His work on the effectiveness of non-pharmaceutical interventions against COVID-19 has led to the top 7 most linked/blogged/referenced paper in the history of the journal Science (at the time of appearance,
+link
+). His work has been cited in federal bills and he has advised/presented to policy organisations such as the Africa CDC, the OECD Global Science Forum, UK SAGE, and the UK Cabinet Office.
+Jan also has a secret second life as a principal investigator at the University Witten/Herdecke, where he is supervising clinical trials on mental health and cognitive enhancement.
+Jan studied medicine at the University of Erlangen-Nuremberg and the University of Wuerzburg, Germany. After graduating from medical school, he completed a master’s degree in Operational Research with Data Science at the University of Edinburgh, where he worked with Prof. Amos Storkey on innovative deep learning-based approaches to medical image analysis.
+His publications with OATML are listed below, his full publication list can be found on
+google scholar
+.
+",https://oatml.cs.ox.ac.uk/members/jan_brauner/,,,,,
+oxford,freddie_kalaitzis,https://oatml.cs.ox.ac.uk/members/freddie_kalaitzis/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml@cs.ox.ac.uk,freddie_kalaitzis,"Freddie Kalaitzis - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Freddie Kalaitzis
+Senior Research Fellow (2020—2024)
+Github
+From 2020 - 2024 Freddie was a part-time
+Senior Research Fellow
+, and
+Theme Lead
+of
+ML for Earth Observation and Remote Sensing
+, in the
+Oxford Applied and Theoretical Machine Learning
+lab (led by Yarin Gal) of Oxford University. He's also an
+ML & Project Lead
+at
+NASA's Frontier Development Lab
+(FDL), and the (part-time)
+ML Lead of Trillium Technologies
+, the R&D production company behind FDL.
+Since FDL US 2020, Freddie has been a
+ML & Project Lead
+for project
+Waters Of The United States
+(WOTUS), in partnership with the USGS, Planet, Maxar, Google Cloud and NVIDIA, towards the ultimate vision for
+mapping all flowing water on Earth
+, at near real-time, by fusing LiDAR sensors and daily very high resolution (VHR) satellite imagery.
+He started his journey with FDL 2019 as a
+mentor
+, helping teams
+super-resolve solar magnetograms
+and
+predict GPS disruptions induced by solar weather
+.
+Until April 2020, he was an
+Applied Research Scientist
+in the
+AI for Good
+lab (led by Julien Cornebise) of
+Element AI
+in London, focusing on applications of ML and statistics that enable NGOs and nonprofits.
+During this work, he led the
+Multi-Frame
+Super-Resolution research
+collaboration with
+Mila
+Montréal
+, which was awarded by ESA for topping the
+PROBA-V Super-Resolution challenge
+.
+He also co-authored the technical report written with Amnesty International, on the
+first
+large-scale study of online abuse against women on Twitter
+, whose front-page coverage in the Financial Times led to
+Twitter working with Amnesty to better protect the rights of vulnerable users online
+. Also with Amnesty, he has co-authored a technical blog-post on using VHR satellite imagery to detect evidence of genocide in rural areas of Darfur, Sudan.
+Prior to Element AI, he was a Senior Data Scientist in Digital Shadows, a Data Scientist in Microsoft's Xbox EMEA team, and a
+postdoc
+in Bayesian statistics (with Ricardo Silva) at the
+Statistical Science department
+of
+University College London
+. He has a
+PhD in Computer Science
+from the
+University of Sheffield
+(supervised by Neil Lawrence), and a
+MSc in Artificial Intelligence
+from the
+University of Edinburgh
+. His PhD research led to contributions in probability methods for dimensionality reduction of data and developed methods for gene-expression time-series to discover genetic factors of disease.
+Off work, he occasionally mentors teenagers of ages 12-18 for Teens in AI, and he is the
+founder
+of
+Well-Being in ML
+, the first official social event at NeurIPS advocating for
+healthy well-being and mental practice in academia and industry of ML
+.
+",https://oatml.cs.ox.ac.uk/members/freddie_kalaitzis/,,,,,
+oxford,angus_nicolson,https://oatml.cs.ox.ac.uk/members/angus_nicolson/,,,,,,,,,,,,,,,,,,,,,,,,,,,angus.nicolson@linacre.ox.ac.uk,angus_nicolson,"Angus Nicolson - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Angus Nicolson
+Associate Member (PhD) (2020—2024)
+Github
+Email
+Web
+Angus was jointly supervised by Alison Noble and Yarin Gal within the EPSRC CDT in Health Data Science. He works on the application, characterisation and improvement of interpretable machine learning in healthcare, specifically ultrasound imaging. He grew up in Oxford so is one of the few who have had the fortune of seeing the city from both a town and gown perspective. He received an MSci degree from Durham in Natural Sciences, specialising in computational chemistry and quantum mechanics in his final year. After his degree, he ignited his interest in the application of machine learning to medical problems while working at Optellum, an Oxford based startup focused on the early diagnosis of lung cancer.
+",https://oatml.cs.ox.ac.uk/members/angus_nicolson/,,,,,
+oxford,andrew_jesson,https://oatml.cs.ox.ac.uk/members/andrew_jesson/,,,,,,,,,,,,,,,,,,,,,,,,,,,andrew.jesson@cs.ox.ac.uk,andrew_jesson,"Andrew Jesson - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Andrew Jesson
+PhD (2019—2024)
+Github
+Email
+Web
+Andrew was a Ph.D. student in the
+Department of Computer Science
+at the University of Oxford. He works in the
+Applied and Theoretical Machine Learning Group
+(OATML) under the supervision of Yarin Gal. Before joining the group, he was a program manager and researcher at
+Imagia
+in Montreal. He obtained his undergraduate and master’s degrees from the
+Department of Electrical and Computer Engineering
+at McGill University, working in the
+Probabilistic Vision Group
+(PVG) under the supervision of Tal Arbel. His research focuses on personalized decision-making under uncertainty in causal-effect estimates. Specifically, he is interested in quantifying, integrating, and reducing the uncertainty that arises from the relaxation of causal assumptions.
+",https://oatml.cs.ox.ac.uk/members/andrew_jesson/,,,,,
+oxford,soren_mindermann,https://oatml.cs.ox.ac.uk/members/soren_mindermann/,,,,,,,,,,,,,,,,,,,,,,,,,,,soren.mindermann@linacre.ox.ac.uk,soren_mindermann,"Sören Mindermann - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Sören Mindermann
+PhD (2019—2023)
+Github
+Email
+Sören was a DPhil student in CS supervised by
+Yarin Gal
+from
+OATML
+and
+Allan Dafoe
+from Oxford’s
+Centre for the Governance of AI
+. His interests in machine learning include its economic and political properties, how it scales, and safety. Before joining OATML, he worked on reward inference and machine learning for game theory with David Duvenaud and Roger Grosse at Toronto’s Vector Institute, with the Center for Human-compatible AI at UC Berkeley, and at the Future of Humanity Institute at Oxford. He has degrees in machine learning (UCL), maths (Amsterdam) and Future Planet Studies (Amsterdam). Sören is co-funded by Oxford and DeepMind.
+",https://oatml.cs.ox.ac.uk/members/soren_mindermann/,,,,,
+oxford,laura_gisseleore,https://oatml.cs.ox.ac.uk/members/laura_gisseleore/,,,,,,,,,,,,,,,,,,,,,,,,,,,laura.gisseleire@cs.ox.ac.uk,laura_gisseleore,"Laura Gisseleire - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Laura Gisseleire
+Associate Member (Program Manager) (2022—2023)
+Github
+Email
+Laura was the Project Manager for OATML in 2022-2023. She was responsible for administrative and operational tasks on behalf of the group. Previously, Laura worked in outreach and widening participation at the University of Cambridge.
+",https://oatml.cs.ox.ac.uk/members/laura_gisseleore/,,,,,
+oxford,joost_van_amersfoort,https://oatml.cs.ox.ac.uk/members/joost_van_amersfoort/,,,,,,,,,,,,,,,,,,,,,,,,,,,joost.van.amersfoort@cs.ox.ac.uk,joost_van_amersfoort,"Joost van Amersfoort - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Joost van Amersfoort
+PhD (2018—2023)
+Github
+Email
+Web
+Joost was a DPhil student in the OATML group in the Department of Computer Science at the University of Oxford, supervised by
+Yarin Gal
+and
+Yee Whye Teh
+. He is interested in uncertainty estimation, representation learning, variational inference, and its applications to for example active learning. Previously, he spent two years as a Research Engineer at Twitter’s machine learning team
+Cortex
+as part of the team that came out of the Magic Pony acquisition. He obtained his MSc. at the University of Amsterdam, working with
+Max Welling
+and
+Diederik Kingma
+. He is an Oxford-Google DeepMind scholar.
+",https://oatml.cs.ox.ac.uk/members/joost_van_amersfoort/,,,,,
+oxford,clare_lyle,https://oatml.cs.ox.ac.uk/members/clare_lyle/,,,,,,,,,,,,,,,,,,,,,,,,,,,clare.lyle@univ.ox.ac.uk,clare_lyle,"Clare Lyle - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Clare Lyle
+PhD (2018—2023)
+Github
+Email
+Web
+Clare was a DPhil student at the University of Oxford working with Yarin Gal and Marta Kwiatkowska. She has previously worked on developing a stronger theoretical understanding of distributional reinforcement learning at
+Google Brain
+, and is broadly interested in theoretical foundations of machine learning. She obtained her undergraduate degree in mathematics and computer science at McGill University, and was a
+Rhodes Scholar
+.
+",https://oatml.cs.ox.ac.uk/members/clare_lyle/,,,,,
+oxford,andreas_kirsch,https://oatml.cs.ox.ac.uk/members/andreas_kirsch/,,,,,,,,,,,,,,,,,,,,,,,,,,,andreas.kirsch@cs.ox.ac.uk,andreas_kirsch,"Andreas Kirsch - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Andreas Kirsch
+PhD (2018—2023)
+Github
+Email
+Web
+Andreas was a DPhil student with Yarin Gal in the
+AIMS
+program. He is interested in Bayesian Deep Learning, and ethics and safety in AI.
+Before joining OATML he worked at
+DeepMind
+in London as a research engineer and for
+Google/YouTube
+in Zurich as a software engineer. He studied computer science and maths at the Technical University in Munich.
+While originally from Romania, he grew up in Southern Germany. He likes schnitzel, sarmale, bouldering and running. 
+He is a
+Clarendon Scholar
+.
+",https://oatml.cs.ox.ac.uk/members/andreas_kirsch/,,,,,
+oxford,aidan_gomez,https://oatml.cs.ox.ac.uk/members/aidan_gomez/,,,,,,,,,,,,,,,,,,,,,,,,,,,aidan.gomez@cs.ox.ac.uk,aidan_gomez,"Aidan Gomez - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Aidan Gomez
+PhD (2018—2023)
+Github
+Email
+Web
+Aidan was a doctoral student of
+Yarin Gal
+and
+Yee Whye Teh
+at The University of Oxford. He founded Cohere and a research group called
+FOR.ai
+, focussing on providing resources, mentorship, and facilitating collaboration between academia and industry. Aidan’s research deals in understanding and improving neural networks and their applications. Previously, he worked with
+Geoffrey Hinton
+and
+Łukasz Kaiser
+on the
+Google Brain
+team. He obtained his Bachelors from The University of Toronto with supervision from
+Roger Grosse
+. He is an AI Fellow for
+Open Philanthropy
+and a
+Clarendon Scholar
+.
+",https://oatml.cs.ox.ac.uk/members/aidan_gomez/,,,,,
+oxford,angelos_filos,https://oatml.cs.ox.ac.uk/members/angelos_filos/,,,,,,,,,,,,,,,,,,,,,,,,,,,angelos.filos@cs.ox.ac.uk,angelos_filos,"Angelos Filos - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Angelos Filos
+PhD (2018—2023)
+Github
+Email
+Web
+Angelos was a DPhil student in the
+Department of Computer Science
+at the University of Oxford, where he worked in the Applied and Theoretical Machine Learning group (
+OATML
+) under the supervision of
+Yarin Gal
+.
+His research interests span multi-agent systems, meta-learning and reinforcement learning.
+He obtained an undergraduate and master’s degree from the
+Department of Electrical and Electronic Engineering
+at Imperial College London.
+He also contracts with
+J.P. Morgan Artificial Intelligence Research
+group, working on generative models, distributional reinforcement learning and inverse reinforcement learning.
+",https://oatml.cs.ox.ac.uk/members/angelos_filos/,,,,,
+oxford,robin_ru,https://oatml.cs.ox.ac.uk/members/robin_ru/,,,,,,,,,,,,,,,,,,,,,,,,,,,robin@robots.ox.ac.uk,robin_ru,"Binxin (Robin) Ru - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Binxin (Robin) Ru
+Associate Member (PhD) (2018—2022)
+Github
+Email
+Web
+Robin was a DPhil at the University of Oxford working with
+Yarin Gal
+(OATML group) and
+Michael Osborne
+(BXL group under MLRG). He is interested in Bayesian optimisation and Bayesian deep learning, and especially in their application on AutoML tasks like hyper-parameter tuning and neural architecture search. Robin obtained his undergraduate and masters degree in Engineering Science from University of Oxford and graduated as the top performer in his cohort. He is a Clarendon Scholar.
+",https://oatml.cs.ox.ac.uk/members/robin_ru/,,,,,
+oxford,neil_band,https://oatml.cs.ox.ac.uk/members/neil_band/,,,,,,,,,,,,,,,,,,,,,,,,,,,neil.band@cs.ox.ac.uk,neil_band,"Neil Band - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Neil Band
+MSc by Research (2020—2022)
+Github
+Email
+Neil is an MSc by Research student in the Oxford Applied and Theoretical Machine Learning Group (OATML) under the supervision of
+Yarin Gal
+. He is interested in Bayesian and graph deep learning with applications in computational biology and autonomy. He has worked on machine learning methods for the inference of Alzheimer’s Disease progression with Manolis Kellis in the
+MIT Computational Biology Group
+, and on neural network memory optimization with Stratos Idreos in the
+Harvard Data Systems Lab
+. Neil obtained his undergraduate degree in computer science and economics at
+Harvard College
+, and is a
+Rhodes Scholar
+.
+",https://oatml.cs.ox.ac.uk/members/neil_band/,,,,,
+oxford,milad_alizadeh,https://oatml.cs.ox.ac.uk/members/milad_alizadeh/,,,,,,,,,,,,,,,,,,,,,,,,,,,milad.alizadeh@cs.ox.ac.uk,milad_alizadeh,"Milad Alizadeh - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Milad Alizadeh
+PhD (2017—2022)
+Github
+Email
+Web
+Milad was a DPhil student in the Computer Science department at the University of Oxford, where he worked in the Machine Learning Systems Group (OX-MLSYS) under the supervision of
+Nic Lane
+and Applied and Theoretical Machine Learning Group (OATML) with
+Yarin Gal
+. Prior to joining the University of Oxford, he was a Senior Software Engineer at
+Qualcomm Technologies
+in Cambridge, and
+Imagination Technologies
+in Bristol. He received his MSc in Digital Signal Processing from University of Bristol in 2011. Milad is a member of
+Linacre College
+.
+",https://oatml.cs.ox.ac.uk/members/milad_alizadeh/,,,,,
+oxford,lewis_smith,https://oatml.cs.ox.ac.uk/members/lewis_smith/,,,,,,,,,,,,,,,,,,,,,,,,,,,lewis.smith@kellogg.ox.ac.uk,lewis_smith,"Lewis Smith - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Lewis Smith
+PhD (2017—2022)
+Github
+Email
+Web
+Lewis Smith was a DPhil student supervised by Yarin Gal.
+His main interests are in the reliability and robustness of machine
+learning algorithms, Bayesian methods, and the automatic learning
+of structure (such as invariances in the data). He was also a member
+of the
+AIMS CDT
+.  Before joining OATML,
+he recieved his masters degree in physics from the University of
+Manchester.
+",https://oatml.cs.ox.ac.uk/members/lewis_smith/,,,,,
+oxford,Lood_van_Niekerk,https://oatml.cs.ox.ac.uk/members/Lood_van_Niekerk/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml@cs.ox.ac.uk,Lood_van_Niekerk,"Lood van Niekerk - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Lood van Niekerk
+Research Assistant (2021—2022)
+Lood van Niekerk was an MSc student with the group, after which he joined the group as a research assistant, splitting his time with the
+Debora Marks Lab
+at Harvard.
+",https://oatml.cs.ox.ac.uk/members/Lood_van_Niekerk/,,,,,
+oxford,lars_holdijk,https://oatml.cs.ox.ac.uk/members/lars_holdijk/,,,,,,,,,,,,,,,,,,,,,,,,,,,,lars_holdijk,"Lars Holdijk - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Lars Holdijk
+MSc by Research (2021—2022)
+Github
+Email
+Web
+My name is Lars Holdijk, master student in Artificial Intelligence at the University of Amsterdam. I am currently an ELLIS honours student supervised by Prof. Max Welling at the University of Amsterdam and Prof. Yarin Gal at the University of Oxford. My recent interest include a wide range of topics in machine learning such as probabilistic modelling, interpretability and robustness. Have a look at my publication list to get a quick overview.
+I obtained my bachelors degree in computer science from the Rijksuniversiteit in Groningen in 2018. In between my bachelor and masters, I spend some time as a student researcher at Porsche in Weissach, Germany. After finalizing my masters degree I hope to join a PhD. program.
+",https://oatml.cs.ox.ac.uk/members/lars_holdijk/,,,,,
+oxford,atilim_gunes_baydin,https://oatml.cs.ox.ac.uk/members/atilim_gunes_baydin/,,,,,,,,,,,,,,,,,,,,,,,,,,,gunes@robots.ox.ac.uk,atilim_gunes_baydin,"Atılım Güneş Baydin - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Atılım Güneş Baydin
+Associate Member (Faculty) (2020—2022)
+Github
+Email
+Web
+Güneş is a Departmental Lecturer in machine learning at the Department of Computer Science and a Senior Researcher in machine learning at the Department of Engineering Science, University of Oxford. He is also a Research Member of the Common Room at Kellogg College, a research consultant for Microsoft Research Cambridge, and a member of European Lab for Learning and Intelligent Systems (ELLIS).
+He specializes in probabilistic programming and simulation-based inference, and applications at the intersection of machine learning and physical sciences. His other research interests include automatic differentiation, hyperparameter optimization, and evolutionary algorithms. He’s been working on enabling efficient probabilistic inference in large-scale simulators in particle physics, focusing on distributed training and inference at supercomputing scale. He is also involved in collaborations in heliophysics, cosmology, spacecraft collision avoidance, with collaborators at Lawrence Berkeley Lab, NYU, CERN, NASA, and ESA. He co-organizes the NeurIPS workshop
+ML4PhysicalSciences
+among other things.
+",https://oatml.cs.ox.ac.uk/members/atilim_gunes_baydin/,,,,,
+oxford,mizu_nishikawa_toomey,https://oatml.cs.ox.ac.uk/members/mizu_nishikawa_toomey/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml@cs.ox.ac.uk,mizu_nishikawa_toomey,"Mizu Nishikawa-Toomey - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Mizu Nishikawa-Toomey
+Research Assistant (2020—2021)
+Github
+Mizu was an MSc student with the group, after which she joined the group as a research assistant. She obtained a masters in Computer Science as a DeepMind scholar at the University of Oxford and a bachelors in Physics at UCL.
+Previously she worked as an Algorithm Researcher at Oxford Nanopore Technologies researching neural networks for Nanopore DNA sequencing. She is interested in applications of Bayesian approaches to machine learning for active learning, uncertainty calibration and interpretability. 
+After her time with OATML she started a PhD at Mila.
+",https://oatml.cs.ox.ac.uk/members/mizu_nishikawa_toomey/,,,,,
+oxford,oscar_key,https://oatml.cs.ox.ac.uk/members/oscar_key/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml@cs.ox.ac.uk,oscar_key,"Oscar Key - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Oscar Key
+Research Assistant (2019—2020)
+Github
+Web
+Oscar was a research assistant in the OATML group at the University of Oxford. Previously he completed a master’s degree in computer science at Oxford. During this, he worked in the group on his dissertation, a comparison of uncertainty estimates for safe exploration in machine learning. Before coming to Oxford he spent two years at Google, having received an undergraduate degree in computer science from the University of Cambridge.
+",https://oatml.cs.ox.ac.uk/members/oscar_key/,,,,,
+oxford,challenger_mishra,https://oatml.cs.ox.ac.uk/members/challenger_mishra/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml@cs.ox.ac.uk,challenger_mishra,"Challenger Mishra - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Challenger Mishra
+Postdoc (2018—2020)
+Github
+Web
+Challenger is a theoretical physicist working on the long-standing problem of quantising gravity. 
+Recently, he started to undertake work in Theoretical Machine Learning, in order to exploit its tools to understand String Theory as a problem in big data.
+As a
+Rhodes Scholar
+he has pursued his passion in understanding fundamental physical processes by undertaking doctoral work in String Theory at the Rudolf Peierls Centre for Theoretical Physics, University of Oxford. During his recently completed thesis, he worked on understanding various aspects of complex geometries that feature in String Theory, using the tools of differential and algebraic-geometry. 
+Prior to this, Challenger completed his undergraduate work in Physics from the Indian Institute of Science Education and Research, Kolkata. During his undergraduate years, he worked on a NASA-sponsored project applying stochastic optimisation techniques to analyse data from the proposed gravitaional wave detector, LISA. 
+When he isn’t tied up in stringy or machine learning affairs, he likes to show off his constantly diminishing skills in table tennis.
+After OATML, Challenger was appointed as an Accelerate Science Research Fellow at the University of Cambridge.
+",https://oatml.cs.ox.ac.uk/members/challenger_mishra/,,,,,
+oxford,zac_kenton,https://oatml.cs.ox.ac.uk/members/zac_kenton/,,,,,,,,,,,,,,,,,,,,,,,,,,,oatml@cs.ox.ac.uk,zac_kenton,"Zac Kenton - OATML
+Group Home
+Home
+Menu
+Home
+News
+Publications
+Reproducibility and Code
+Blog
+Members
+Invited Talks
+Collaborators and Affiliates
+Apply to the Group
+Oxford Applied and Theoretical Machine Learning Group
+OATML
+Back to all members...
+Zac Kenton
+Postdoc (2018—2019)
+Github
+Web
+Zac was a Postdoc in OATML working with Yarin Gal. His primary research interest is technical AI safety, and is currently working on robustness and safe exploration in reinforcement learning. He was previously a Research Assistant with Owain Evans at the
+Future of Humanity Institute
+, University of Oxford and a Visiting Researcher at the
+Montreal Institute for Learning Algorithms (MILA)
+, under
+Yoshua Bengio
+. He also worked as a Data Scientist at ASI Data Science. He completed his PhD at Queen Mary University of London in Theoretical Physics, where he worked on string theory and cosmology. Prior to his PhD, he studied Mathematics at the University of Cambridge.
+After OATML, Zac joined the DeepMind AGI safety team.
+",https://oatml.cs.ox.ac.uk/members/zac_kenton/,,,,,

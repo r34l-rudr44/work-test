@@ -1,0 +1,28 @@
+id: oxford
+base_url: https://oatml.cs.ox.ac.uk
+source_type: html_listing
+
+listing:
+  url: https://oatml.cs.ox.ac.uk/members.html
+  link_selector: a[href*="members"]
+  link_filter:
+    path_segments: 4
+  link_attr: href
+  id_from_path: 4
+
+detail:
+  extract:
+    - field: member_id
+      from_id: true
+    - field: url
+      from_url: true
+    - field: mailto_raw
+      tag: mailto
+    - field: page_text
+      tag: page_text
+      stop_at:
+        - "Publications while at OATML"
+        - "---"
+      max_chars: 10000
+  transforms:
+    mailto_raw: mailto_extract

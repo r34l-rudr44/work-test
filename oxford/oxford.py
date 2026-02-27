@@ -4,6 +4,7 @@ import requests
 import bs4
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 DATA_DIR = Path("basic info")
@@ -14,37 +15,18 @@ def get_research_interests(url: str) -> str:
     page = requests.get(url)
     page.encoding = page.apparent_encoding or "utf-8"
     soup = bs4.BeautifulSoup(page.content, "html.parser")
-    text = soup.get_text(separator="\n", strip=True)
-
-    description = re.split(r"\n\s*---\s*\n|Publications while at OATML", text, maxsplit=1)[0]
-    lines = [ln.strip() for ln in description.split("\n") if ln.strip()]
-
-    for line in lines:
-        line_lower = line.lower()
-        if "research focus" in line_lower or "research interest" in line_lower:
-            for pattern in [
-                r"research\s+focus(?:es)?\s+on\s+(.+?)(?=\.\s+[A-Z]|\.\s*$)",
-                r"research\s+focus[:\s]+(.+?)(?=\.\s+[A-Z]|\.\s*$)",
-                r"research\s+interest(?:s)?[:\s]+(.+?)(?=\.\s+[A-Z]|\.\s*$)",
-                r"research\s+interest(?:s)?\s+(?:lies?|span|include)\s+(.+?)(?=\.\s+[A-Z]|\.\s*$)",
-                r"research\s+(?:focuses?|interests?)\s+(?:on\s+)?(.+?)(?=\.\s+[A-Z]|\.\s*$)",
-            ]:
-                match = re.search(pattern, line, re.IGNORECASE | re.DOTALL)
-                if match:
-                    result = match.group(1).strip()
-                    if result:
-                        return result + ("." if not result.endswith(".") else "")
-            for kw in ["research focus", "research interest"]:
-                idx = line_lower.find(kw)
-                if idx >= 0:
-                    after = line[idx + len(kw) :].strip()
-                    after = re.sub(r"^[:\s]+", "", after)
-                    first_sent = re.split(r"\.\s+", after)[0].strip()
-                    if first_sent:
-                        return first_sent + ("." if not first_sent.endswith(".") else "")
-            return line.strip()
-
-    return ""
+    elements = soup.select("p")
+    paras = [
+        ele.get_text(strip=True)
+        for ele in elements
+        if "interest" in ele.get_text().lower() or "interested" in ele.get_text().lower()
+    ]
+    if not paras:
+        return ""
+    vectorizer = TfidfVectorizer(stop_words="english", max_features=20, ngram_range=(1, 2))
+    X = vectorizer.fit_transform(paras)
+    features = vectorizer.get_feature_names_out()
+    return "; ".join(features)
 
 
 def get_affiliations(url: str) -> str:
@@ -103,7 +85,7 @@ def get_data(url: str):
         affiliations = get_affiliations(link)
         rows.append((name, email, research_interest, affiliations))
 
-    output_file = DATA_DIR / "v4_oxford_basic.csv"
+    output_file = DATA_DIR / "v5_oxford_basic.csv"
     with output_file.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["name", "email", "research_interests", "affiliations"])

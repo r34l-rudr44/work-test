@@ -1,0 +1,26 @@
+id: iitm
+base_url: https://cse.iitm.ac.in
+source_type: html_attrs
+
+url: https://cse.iitm.ac.in/outerfaculty.php
+container_selector: "[data-mail]"
+
+attribute_map:
+  name: data-name
+  email: data-mail
+  phone: data-phone
+  research: data-resrch
+  profile_url: data-profile-link
+  personal_url: data-personallink
+  designation: data-designation
+  image: data-image
+  labno: data-labno
+  office: data-office
+  bio: data-bio
+  specializations: data-specializations
+  research_areas: data-researchareas
+
+transforms:
+  email: deobfuscate_email
+  profile_url: absolute_url
+  personal_url: absolute_url

@@ -1,0 +1,31 @@
+id: cmu
+base_url: https://ml.cmu.edu
+source_type: json_api
+
+api:
+  url: https://ml.cmu.edu/peopleindexes/phd-students-index.v1.json
+  data_path: data
+
+field_mapping:
+  id: id
+  name: n
+  email: id
+  institution: institution
+  degree: degree
+  advisor: advisor
+  rsrc: rsrc
+  href: href
+  img: img
+  dept: dept
+  soc: soc
+  joint_degree: joint-degree
+
+name_field: name
+transforms:
+  email: andrew_email
+  rsrc: list_join
+  n: list_join
+  sn: list_join
+  institution: list_join
+  degree: list_join
+  advisor: list_join
